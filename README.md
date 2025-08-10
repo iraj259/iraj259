@@ -76,5 +76,3 @@
   <img src="https://img.shields.io/badge/AI-Enthusiast-orange?style=for-the-badge&logo=python" alt="AI Enthusiast" />
   <img src="https://img.shields.io/badge/Minecraft-Fan-9cf?style=for-the-badge&logo=minecraft" alt="Minecraft Fan" />
 </p>
-
-⛏️ **Pixel-perfect code, block by block.** 🛠️ 
