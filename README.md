@@ -3,9 +3,7 @@
   <img src="https://github.com/user-attachments/assets/65ce52d1-68ae-4242-bddf-07e2ea086e83" width="70%" alt="Pastel Minecraft Banner" />
 </p>
 
-<p align="center">
-npm run build --with=iraj 🧚‍♀️
-</p>
+## <p align="center">npm run build --with=iraj!🧚‍♀️</p>
 
 ## ✨ Motto.jsx
 <p align="center" style="font-family: 'Minecraft', monospace; font-size: 18px; color: #f7c6c7; margin-bottom: 20px;">
@@ -46,8 +44,8 @@ npm run build --with=iraj 🧚‍♀️
 ### <p align="center">📊 src/pages/Stats&Languages.jsx</p>
 <p align="center"> <table align="center" style="margin:auto"> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=iraj259&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iraj259&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> </td> </tr> </table> </p>
 
-## <p align="center"> 📈 src/pages/Activity.jsx 🐉🔥 <p>
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=iraj259&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" /> </p>
+<!-- ## <p align="center"> 📈 src/pages/Activity.jsx 🐉🔥 <p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=iraj259&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" /> </p> -->
 
 ## <p align="center"> 📬 src/pages/ContactMe.jsx 📜🛡️ <p>
 <p align="center">
@@ -62,11 +60,7 @@ npm run build --with=iraj 🧚‍♀️
   </a>
 </p>
 
-## <p align="center"> 👁️‍🗨 src/pages/VisitorCount.jsx 👀🧟 <p>
 
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Firaj259&count_bg=%236CC644&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false" alt="Visitor Count" />
-</p>
 
 ## <p align="center"> 🛡️ src/pages/Badges.jsx 🏆💎 <p>
 
