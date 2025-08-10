@@ -1,7 +1,3 @@
-<!-- ================== -->
-<!-- Hybrid README with Assembly commands in Ubuntu style -->
-<!-- ================== -->
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/65ce52d1-68ae-4242-bddf-07e2ea086e83" width="100%" alt="Pastel Minecraft Banner" />
 </p>
@@ -14,7 +10,63 @@
 
 ## ⛏️ About Me
 
-```bash
+```asm
+; Iraj Mahmood - Full-Stack Developer & AI Enthusiast
+section .data
+    name    db 'Iraj Mahmood',0
+    role    db 'Full-Stack Engineer',0
+    location db 'Lisbon, Portugal',0
+
+section .text
+_start:
+    ; Passion for clean code & scalable apps
+    mov eax, 'React/Next.js/Node.js'
+    mov ebx, 'AI & Automation'
+    mov ecx, 'Cloud & DevOps'
+    jmp _start  ; forever coding loop
+🧱 Tech Stack
+<p align="center"> <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" /> <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" /> <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" /> <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" /> <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" /> </p> ```
+Summary
+Use fenced code blocks for code (with language).
+
+Use minimal HTML (just for centering images).
+
+Commit and check on the actual GitHub repo page (not the markdown preview editor).
+
+If you want, send me your current README.md content as you have it now and I can quickly fix it for you so it renders perfectly on GitHub!
+
+Would you like me to do that?
+
+
+
+
+
+
+
+
+You said:
+give me whole corrected one
+
+
+ChatGPT said:
+Absolutely! Here's your fully corrected and ready-to-paste README.md that uses proper fenced code blocks, minimal HTML (only for centering images), and clean markdown so it will render perfectly on GitHub.
+
+markdown
+Copy
+Edit
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/65ce52d1-68ae-4242-bddf-07e2ea086e83" width="100%" alt="Pastel Minecraft Banner" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Iraj+Mahmood+-+Full-Stack+Engineer&animation=fadeIn&type=waving&color=gradient&height=120" alt="Header" />
+</p>
+
+---
+
+## ⛏️ About Me
+
+```asm
 ; Iraj Mahmood - Full-Stack Developer & AI Enthusiast
 section .data
     name    db 'Iraj Mahmood',0
@@ -86,3 +138,4 @@ Portfolio Website	Personal portfolio with animations & modern UI	GitHub
 <p align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=iraj259.iraj259&style=for-the-badge&color=6CC644" alt="Visitor Count" /> </p>
 🛡️ Badges
 <p align="center"> <img src="https://img.shields.io/badge/Commits-1000%2B-blue?style=for-the-badge&logo=git" alt="Commits Badge" /> <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=githubactions" alt="Build Status" /> <img src="https://img.shields.io/badge/AI-Enthusiast-orange?style=for-the-badge&logo=python" alt="AI Enthusiast" /> <img src="https://img.shields.io/badge/Minecraft-Fan-9cf?style=for-the-badge&logo=minecraft" alt="Minecraft Fan" /> </p>
+Thanks for stopping by! Feel free to connect or collaborate ⛏️🚀
