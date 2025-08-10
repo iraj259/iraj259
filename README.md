@@ -1,10 +1,10 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/65ce52d1-68ae-4242-bddf-07e2ea086e83" width="60%" alt="Pastel Minecraft Banner" />
+  <img src="https://github.com/user-attachments/assets/65ce52d1-68ae-4242-bddf-07e2ea086e83" width="100%" alt="Pastel Minecraft Banner" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Iraj+Mahmood+-+Full-Stack+Engineer&animation=fadeIn&type=waving&color=gradient&height=120" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?text=Iraj+Mahmood+-+Full-Stack+Engineer&animation=fadeIn&type=waving&color=gradient&height=60" alt="Header" />
 </p>
 
 
@@ -70,7 +70,7 @@
 ## <p align="center"> 👁️‍🗨 src/pages/VisitorCount.jsx <p>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=iraj259.iraj259&style=for-the-badge&color=6CC644" alt="Visitor Count" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Firaj259&count_bg=%236CC644&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false" alt="Visitor Count" />
 </p>
 
 ## 🛡️ src/pages/Badges.jsx
