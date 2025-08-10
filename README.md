@@ -24,7 +24,7 @@
 }
 ```
 
-## <p align="center"> 🧱 src/pages/TechStack.jsx 🪓⛏️ <p>
+## <p align="center"> 🧱 src/pages/TechStack.jsx 🪓⛏️ <img src="https://media.giphy.com/media/12HZukMBlutpoQ/giphy.gif" alt="minecraft building" width="24" style="vertical-align:middle; margin-left:8px;" /> <p>
 
 <p align="center">
   <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" />
