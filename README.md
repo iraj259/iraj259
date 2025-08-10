@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=npm+react+build+with+Iraj+🧚‍♀️&animation=fadeIn&type=waving&color=linear-gradient(135deg,%20#f9c5d1,%20#fcd5ce,%20#f8edeb,%20#f9dcc4,%20#f7efdb)&height=50&fontSize=30" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?text=npm+react+build+with+Iraj+🧚‍♀️&animation=fadeIn&type=waving&color=linear-gradient(135deg,%20#f9c5d1,%20#fcd5ce,%20#f8edeb,%20#f9dcc4,%20#f7efdb)&height=50&fontSize=10" alt="Header" />
 </p>
 
 ## ✨ Motto.jsx
