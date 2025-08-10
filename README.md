@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/65ce52d1-68ae-4242-bddf-07e2ea086e83" width="100%" alt="Pastel Minecraft Banner" />
+  <img src="https://github.com/user-attachments/assets/65ce52d1-68ae-4242-bddf-07e2ea086e83" width="50%" alt="Pastel Minecraft Banner" />
 </p>
 
 <p align="center">
@@ -71,11 +71,10 @@
 
 ## <p align="center"> 🛡️ src/pages/Badges.jsx 🏆💎 <p>
 
-<p align="center">
   <img src="https://img.shields.io/badge/Commits-1000%2B-blue?style=for-the-badge&logo=git" alt="Commits Badge" />
   <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=githubactions" alt="Build Status" />
   <img src="https://img.shields.io/badge/AI-Enthusiast-orange?style=for-the-badge&logo=python" alt="AI Enthusiast" />
   <img src="https://img.shields.io/badge/Minecraft-Fan-9cf?style=for-the-badge&logo=minecraft" alt="Minecraft Fan" />
 </p>
 
-> ⛏️ **Pixel-perfect code, block by block.** 🛠️
+<p align="center"> ⛏️ **Pixel-perfect code, block by block.** 🛠️ </p>
