@@ -37,9 +37,9 @@
 </p>
 
 
-## <p align="center"> 📊 src/pages/GitHubStats&Languages.jsx <p>
+## <p align="center"> 📊 src/pages/Stats&Languages.jsx <p>
 
-<p align="center">
+<p align="center" style="red">
   <img src="https://github-readme-stats.vercel.app/api?username=iraj259&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
