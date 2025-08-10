@@ -1,4 +1,4 @@
-                                              ![Mine craft Cherry biome ‹𝟹 (2)](https://github.com/user-attachments/assets/dc9ba1a9-f01b-4c3f-bf2f-b1e86186c0bd)
+![Mine craft Cherry biome ‹𝟹 (2)](https://github.com/user-attachments/assets/23c3e28c-47a6-48db-823c-cc0ad121af8a)
 
 ## Hi there 👋
 
