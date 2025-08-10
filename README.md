@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/65ce52d1-68ae-4242-bddf-07e2ea086e83" width="50%" alt="Pastel Minecraft Banner" />
+  <img src="https://github.com/user-attachments/assets/65ce52d1-68ae-4242-bddf-07e2ea086e83" width="70%" alt="Pastel Minecraft Banner" />
 </p>
 
 <p align="center">
