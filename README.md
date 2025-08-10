@@ -7,7 +7,6 @@
   <img src="https://capsule-render.vercel.app/api?text=Iraj+Mahmood+-+Full-Stack+Engineer&animation=fadeIn&type=waving&color=gradient&height=120" alt="Header" />
 </p>
 
----
 
 ## <p align="center"> ⛏️ src/pages/AboutMe.jsx <p>
 
@@ -25,9 +24,7 @@
 }
 ```
 
----
-
-##                                                🧱 src/pages/TechStack.jsx
+## <p align="center"> 🧱 src/pages/TechStack.jsx <p>
 
 <p align="center">
   <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" />
@@ -38,9 +35,9 @@
   <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" />
   <img alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" />
 </p>
----
 
-📊 src/pages/GitHubStats&Languages.jsx
+
+## <p align="center"> 📊 src/pages/GitHubStats&Languages.jsx <p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iraj259&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -50,12 +47,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iraj259&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-📈 src/pages/Activity.jsx
+
+## <p align="center"> 📈 src/pages/Activity.jsx <p>
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=iraj259&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" /> </p>
 
 
-📬 src/pages/ContactMe.jsx
+## <p align="center"> 📬 src/pages/ContactMe.jsx <p>
 
 <p align="center">
   <a href="mailto:irajj.259@gmail.com.com">
@@ -69,15 +66,12 @@
   </a>
 </p>
 
----
 
-## 👁️‍🗨 src/pages/VisitorCount.jsx
+## <p align="center"> 👁️‍🗨 src/pages/VisitorCount.jsx <p>
 
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=iraj259.iraj259&style=for-the-badge&color=6CC644" alt="Visitor Count" />
 </p>
-
----
 
 ## 🛡️ src/pages/Badges.jsx
 
