@@ -77,4 +77,4 @@
   <img src="https://img.shields.io/badge/Minecraft-Fan-9cf?style=for-the-badge&logo=minecraft" alt="Minecraft Fan" />
 </p>
 
-<p align="center"> ⛏️ **Pixel-perfect code, block by block.** 🛠️ </p>
+⛏️ **Pixel-perfect code, block by block.** 🛠️ 
