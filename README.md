@@ -3,9 +3,7 @@
   <img src="https://github.com/user-attachments/assets/65ce52d1-68ae-4242-bddf-07e2ea086e83" width="70%" alt="Pastel Minecraft Banner" />
 </p>
 
-## <p align="center" style="font-family: 'Minecraft', monospace; font-weight: 700; font-size: 1.5rem; color: #f7c6c7; margin-top: 20px; margin-bottom: 30px;">
-   npm run build --with=iraj 🧚‍♀️
-</p>
+## <p align="center" style="font-family: 'Minecraft', monospace; font-weight: 700; font-size: 1.5rem; color: #f7c6c7; margin-top: 20px; margin-bottom: 30px;"> npm run build --with=iraj 🧚‍♀️</p>
 
 ## ✨ Motto.jsx
 <p align="center" style="font-family: 'Minecraft', monospace; font-size: 18px; color: #f7c6c7; margin-bottom: 20px;">
