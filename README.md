@@ -4,7 +4,7 @@
 </p>
 
 ## <p align="center" style="font-family: 'Minecraft', monospace; font-weight: 700; font-size: 1.5rem; color: #f7c6c7; margin-top: 20px; margin-bottom: 30px;">
-  ## npm run build --with=iraj 🧚‍♀️
+   npm run build --with=iraj 🧚‍♀️
 </p>
 
 ## ✨ Motto.jsx
