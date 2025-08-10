@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=npm+react+build+with+Iraj+🧚‍♀️&animation=fadeIn&type=waving&color=white&height=50&fontSize=30" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?text=npm+react+build+with+Iraj+🧚‍♀️&animation=fadeIn&type=waving&color=pink&height=50&fontSize=30" alt="Header" />
 </p>
 
 
@@ -71,8 +71,10 @@
 
 ## <p align="center"> 🛡️ src/pages/Badges.jsx 🏆💎 <p>
 
+  <p align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://img.shields.io/badge/Commits-1000%2B-blue?style=for-the-badge&logo=git" alt="Commits Badge" />
   <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=githubactions" alt="Build Status" />
   <img src="https://img.shields.io/badge/AI-Enthusiast-orange?style=for-the-badge&logo=python" alt="AI Enthusiast" />
   <img src="https://img.shields.io/badge/Minecraft-Fan-9cf?style=for-the-badge&logo=minecraft" alt="Minecraft Fan" />
+</p>
 </p>
