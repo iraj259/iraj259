@@ -5,7 +5,7 @@
 
 ## <p align="center">npm run build --with=iraj!🧚‍♀️</p>
 
-## ✨ Motto.jsx
+## <p align="center">✨ Motto.jsx<p>
 <p align="center" style="font-family: 'Minecraft', monospace; font-size: 18px; color: #f7c6c7; margin-bottom: 20px;">
   <i>“Pixel-perfect code, block by block.”</i> <span>⛏️🪓</span>
 </p>
