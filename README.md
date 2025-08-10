@@ -9,7 +9,7 @@
 
 ---
 
-⛏️ src/pages/AboutMe.jsx
+## <p align="center"> ⛏️ src/pages/AboutMe.jsx <p>
 
 ```json
 {
@@ -27,7 +27,7 @@
 
 ---
 
-🧱 src/pages/TechStack.jsx
+##                                                🧱 src/pages/TechStack.jsx
 
 <p align="center">
   <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" />
