@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Iraj+Mahmood&animation=fadeIn&type=waving&color=white&height=50&fontSize=30" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?text=npm+react+build+with+Iraj+🧚‍♀️&animation=fadeIn&type=waving&color=white&height=50&fontSize=30" alt="Header" />
 </p>
 
 
@@ -78,3 +78,4 @@
   <img src="https://img.shields.io/badge/Minecraft-Fan-9cf?style=for-the-badge&logo=minecraft" alt="Minecraft Fan" />
 </p>
 
+> ⛏️ **Pixel-perfect code, block by block.** 🛠️
