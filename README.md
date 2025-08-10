@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Iraj+Mahmood+-+Full-Stack+Engineer&animation=fadeIn&type=waving&color=gradient&height=60" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?text=Iraj+Mahmood+-+Full-Stack+Engineer&animation=fadeIn&type=waving&color=gradient&height=20" alt="Header" />
 </p>
 
 
@@ -37,7 +37,7 @@
 </p>
 
 
-## <p align="center" style="red"> 📊 src/pages/Stats&Languages.jsx <p>
+## <p align="center"> 📊 src/pages/Stats&Languages.jsx <p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iraj259&show_icons=true&theme=radical" alt="GitHub Stats" />
