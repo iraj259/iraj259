@@ -1,5 +1,5 @@
 <!-- ================== -->
-<!-- Hybrid Themed README with Minecraft Banner and Emojis -->
+<!-- Hybrid README with Assembly commands in Ubuntu style -->
 <!-- ================== -->
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## ⛏️ About Me
 
-```asm
+```bash
 ; Iraj Mahmood - Full-Stack Developer & AI Enthusiast
 section .data
     name    db 'Iraj Mahmood',0
@@ -28,10 +28,12 @@ _start:
     mov ebx, 'AI & Automation'
     mov ecx, 'Cloud & DevOps'
     jmp _start  ; forever coding loop
-
 🧱 Tech Stack
 <p align="center"> <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" /> <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" /> <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" /> <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" /> <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" /> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" width="110" /> <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" /> <img alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" /> <img alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" /> </p>
-
+🌱 Machine Learning Pipeline (Python-style)
+python
+Copy
+Edit
 # Load and preprocess data
 data = load_data('flashcards.csv')
 cleaned = preprocess(data)
@@ -45,8 +47,10 @@ model.train(cleaned, epochs=50, batch_size=64)
 # Evaluate performance
 accuracy = model.evaluate(test_data)
 print(f'Accuracy: {accuracy:.2f}%')
-
-
+🏗️ Full-Stack Workflow (Ubuntu Terminal)
+bash
+Copy
+Edit
 # Clone repo & install deps
 git clone https://github.com/iraj259/portfolio.git
 cd portfolio
@@ -60,10 +64,16 @@ npm run dev --prefix backend
 npm run build --prefix frontend
 npm run build --prefix backend
 npm run deploy --env production
-
+⚔️ Fun Assembly Commands in Ubuntu Terminal Style
+bash
+Copy
+Edit
+; Optimize code & deploy fast
+mov eax, clean_code
+call optimize
+jmp forever_learning
 📊 GitHub Stats & Languages
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iraj259&show_icons=true&theme=radical" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iraj259&layout=compact&theme=radical" alt="Top Languages" /> </p>
-
 🚩 Featured Projects
 Project	Description	Link
 AI Flashcards & Stripe	AI-powered flashcard app with Stripe payments	GitHub
@@ -71,12 +81,7 @@ Pantry Tracker	Pantry management app using Next.js & Firebase	GitHub
 Portfolio Website	Personal portfolio with animations & modern UI	GitHub
 
 📬 Contact & Socials
-<p align="center"> <a href="mailto:iraj.mahmood@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://linkedin.com/in/irajmahmood"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/iraj259"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> </p>
-
-; Optimize code & deploy fast
-mov eax, clean_code
-call optimize
-jmp forever_learning
+<p align="center"> <a href="mailto:iraj.mahmood@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://linkedin.com/in/irajmahmood"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/iraj259"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p>
 👁️‍🗨 Visitor Count
 <p align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=iraj259.iraj259&style=for-the-badge&color=6CC644" alt="Visitor Count" /> </p>
 🛡️ Badges
