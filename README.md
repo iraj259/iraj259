@@ -8,7 +8,7 @@
 </p>
 
 
-## <p align="center"> ⛏️ src/pages/AboutMe.jsx <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="minecraft mining" width="24" style="vertical-align:middle; margin-left:8px;" />  <p>
+## <p align="center"> ⛏️ src/pages/AboutMe.jsx <p>
 
 ```json
 {
@@ -24,7 +24,10 @@
 }
 ```
 
-## <p align="center"> 🧱 src/pages/TechStack.jsx 🪓⛏️ <img src="https://media.giphy.com/media/12HZukMBlutpoQ/giphy.gif" alt="minecraft building" width="24" style="vertical-align:middle; margin-left:8px;" /> <p>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 8px; margin-bottom: 24px;">
+  <h2 style="margin: 0;">🧱 src/pages/TechStack.jsx</h2>
+  <span style="font-size: 1.5rem;">🪓⛏️</span>
+</div>
 
 <p align="center">
   <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" />
@@ -33,8 +36,9 @@
   <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" />
   <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" />
   <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" />
-<img alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="48" />
+  <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="48" />
 </p>
+
 
 
 ### <p align="center">📊 src/pages/Stats&Languages.jsx</p>
