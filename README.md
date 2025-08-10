@@ -44,8 +44,8 @@
 ### <p align="center">📊 src/pages/Stats&Languages.jsx</p>
 <p align="center"> <table align="center" style="margin:auto"> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=iraj259&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iraj259&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> </td> </tr> </table> </p>
 
-<!-- ## <p align="center"> 📈 src/pages/Activity.jsx 🐉🔥 <p>
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=iraj259&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" /> </p> -->
+ ## <p align="center"> 📈 src/pages/Activity.jsx 🐉🔥 <p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=iraj259&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" /> </p> 
 
 ## <p align="center"> 📬 src/pages/ContactMe.jsx 📜🛡️ <p>
 <p align="center">
