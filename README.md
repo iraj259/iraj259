@@ -3,7 +3,9 @@
   <img src="https://github.com/user-attachments/assets/65ce52d1-68ae-4242-bddf-07e2ea086e83" width="70%" alt="Pastel Minecraft Banner" />
 </p>
 
-## <p align="center" style="font-family: 'Minecraft', monospace; font-weight: 700; font-size: 1.5rem; color: #f7c6c7; margin-top: 20px; margin-bottom: 30px;"> npm run build --with=iraj 🧚‍♀️</p>
+<p align="center">
+npm run build --with=iraj 🧚‍♀️
+</p>
 
 ## ✨ Motto.jsx
 <p align="center" style="font-family: 'Minecraft', monospace; font-size: 18px; color: #f7c6c7; margin-bottom: 20px;">
@@ -41,15 +43,11 @@
   <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="48" />
 </p>
 
-
-
 ### <p align="center">📊 src/pages/Stats&Languages.jsx</p>
 <p align="center"> <table align="center" style="margin:auto"> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=iraj259&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iraj259&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> </td> </tr> </table> </p>
 
-
 ## <p align="center"> 📈 src/pages/Activity.jsx 🐉🔥 <p>
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=iraj259&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" /> </p>
-
 
 ## <p align="center"> 📬 src/pages/ContactMe.jsx 📜🛡️ <p>
 <p align="center">
@@ -64,7 +62,6 @@
   </a>
 </p>
 
-
 ## <p align="center"> 👁️‍🗨 src/pages/VisitorCount.jsx 👀🧟 <p>
 
 <p align="center">
@@ -78,5 +75,4 @@
   <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=githubactions" alt="Build Status" />
   <img src="https://img.shields.io/badge/AI-Enthusiast-orange?style=for-the-badge&logo=python" alt="AI Enthusiast" />
   <img src="https://img.shields.io/badge/Minecraft-Fan-9cf?style=for-the-badge&logo=minecraft" alt="Minecraft Fan" />
-</p>
 </p>
