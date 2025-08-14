@@ -44,6 +44,11 @@
 ### <p align="center">📊 src/pages/Stats&Languages.jsx</p>
 <p align="center"> <table align="center" style="margin:auto"> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=iraj259&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iraj259&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> </td> </tr> </table> </p>
 
+## <p align="center">🔥 src/pages/Streak.jsx 🔥</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iraj259&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
  ## <p align="center"> 📈 src/pages/Activity.jsx 🐉🔥 <p>
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=iraj259&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" /> </p> 
 
