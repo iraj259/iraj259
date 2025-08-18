@@ -73,7 +73,8 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
+## <p align="center">🧚‍♀️ Fact.jsx </p>
+<details> <summary>Click to reveal a fun fact about me!</summary> <p style="text-align:center; color:#f7c6c7; font-family: 'Minecraft', monospace;"> I once tried coding a Minecraft mod at 2AM… and it actually worked! ⛏️🪓 </p> </details>
 
 
 ## <p align="center"> 🛡️ src/pages/Badges.jsx 🏆💎 <p>
