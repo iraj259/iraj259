@@ -18,7 +18,9 @@
 <p align="center" style="font-family: 'Minecraft', monospace; font-size: 18px; color: #f7c6c7; margin-bottom: 20px;">
   <i>“Pixel-perfect code, block by block.”</i> <span>⛏️🪓</span>
 </p>
-
+<p align="center">
+  <img src="AboutMeBanner.png" alt="About Me" style="max-width: 500px; height: auto;" />
+</p>
 ## <p align="center"> ⛏️ src/pages/AboutMe.jsx <p>
 
 ```json
