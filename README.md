@@ -12,7 +12,7 @@
        alt="Pastel Minecraft Banner" />
 </p>
 
-## <h4 align="center">npm run build --with=iraj!🧚‍♀️</h4>
+## <h2 align="center">npm run build --with=iraj!🧚‍♀️</h2>
 
 ## <h4 align="center">✨ src/pages/Motto.jsx<h4>
 <p align="center" style="font-family: 'Minecraft', monospace; font-size: 18px; color: #f7c6c7; margin-bottom: 20px;">
