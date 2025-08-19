@@ -19,6 +19,9 @@
   <i>“Pixel-perfect code, block by block.”</i> <span>⛏️🪓</span>
 </p>
 
+<p align="center">
+  <img src="AboutMe.png" alt="About Me" width="70%" />
+</p>
 ## <p align="center"> ⛏️ src/pages/AboutMe.jsx <p>
 
 ```json
