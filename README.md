@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="AboutMe.png" alt="About Me" width="70%" />
+<img src="AboutMeBanner.png" alt="About Me" width="200" />
 </p>
 ## <p align="center"> ⛏️ src/pages/AboutMe.jsx <p>
 
