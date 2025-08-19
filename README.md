@@ -14,12 +14,12 @@
 
 ## <h2 align="center">npm run build --with=iraj!🧚‍♀️</h2>
 
-## <h4 align="center">✨ src/pages/Motto.jsx<h4>
+## <h2 align="center">✨ src/pages/Motto.jsx</h2>
 <p align="center" style="font-family: 'Minecraft', monospace; font-size: 18px; color: #f7c6c7; margin-bottom: 20px;">
   <i>“Pixel-perfect code, block by block.”</i> <span>⛏️🪓</span>
 </p>
 
-## <h4 align="center"> ⛏️ src/pages/AboutMe.jsx <h4>
+## <h2 align="center"> ⛏️ src/pages/AboutMe.jsx </h2>
 
 ```json
 {
@@ -35,7 +35,7 @@
 }
 ```
 
-## <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 8px; margin-bottom: 24px;"><h4 style="margin: 0;">src/pages/TechStack.jsx 🪓⛏️</h4>
+## <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 8px; margin-bottom: 24px;"><h2 style="margin: 0;">src/pages/TechStack.jsx 🪓⛏️</h2>
 </div>
 
 <p align="center">
@@ -48,18 +48,18 @@
   <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="48" />
 </p>
 
-### <h4 align="center">📊 src/pages/Stats&Languages.jsx</h4>
+### <h2 align="center">📊 src/pages/Stats&Languages.jsx</h2>
 <p align="center"> <table align="center" style="margin:auto"> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=iraj259&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iraj259&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> </td> </tr> </table> </p>
 
-## <h4 align="center">🔥 src/pages/Streak.jsx 🔥</h4>
+## <h2 align="center">🔥 src/pages/Streak.jsx 🔥</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=iraj259&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
- ## <p align="center"> 📈 src/pages/Activity.jsx 🐉🔥 <p>
+ ## <h2 align="center"> 📈 src/pages/Activity.jsx 🐉🔥 </h2>
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=iraj259&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" /> </p> 
 
-## <p align="center"> 📬 src/pages/ContactMe.jsx 📜🛡️ <p>
+## <h2 align="center"> 📬 src/pages/ContactMe.jsx 📜🛡️ </h2>
 <p align="center">
   <a href="mailto:irajj.259@gmail.com.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -72,7 +72,7 @@
   </a>
 </p>
 
-## <p align="center"> 🛡️ src/pages/Badges.jsx 🏆💎 <p>
+## <h2 align="center"> 🛡️ src/pages/Badges.jsx 🏆💎 </h2>
 
   <p align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://img.shields.io/badge/Commits-1000%2B-blue?style=for-the-badge&logo=git" alt="Commits Badge" />
