@@ -35,8 +35,7 @@
 }
 ```
 
-## <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 8px; margin-bottom: 24px;"><h2 style="margin: 0;">src/pages/TechStack.jsx</h2><span style="font-size: 1.5rem;">🪓⛏️</span>
-</div>
+## <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 8px; margin-bottom: 24px;"><h3 style="margin: 0;">src/pages/TechStack.jsx</h3><span style="font-size: 1.5rem;">🪓⛏️</span></div>
 
 <p align="center">
   <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" />
