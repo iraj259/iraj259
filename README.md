@@ -14,8 +14,6 @@
 
 ## <h2 align="center">npm run build --with=iraj! 🦄</h2>
 
-<hr style="border: 1px solid #9984D4; margin: 20px 0;">
-
 
 ## <h2 align="center">💟 src/pages/Motto.jsx 💟</h2>
 <p align="center" style="font-family: 'Minecraft', monospace; font-size: 18px; color: #f7c6c7; margin-bottom: 20px;">
