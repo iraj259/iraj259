@@ -35,9 +35,7 @@
   "motto": "Forever coding and building scalable apps"
 }
 ```
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100%"/>
-</p>
+
 
 ## <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 8px; margin-bottom: 24px;"><h4 style="margin: 0;">src/pages/TechStack.jsx 🪓⛏️</h4>
 </div>
