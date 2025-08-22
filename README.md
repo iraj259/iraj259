@@ -35,6 +35,9 @@
   "motto": "Forever coding and building scalable apps"
 }
 ```
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100%"/>
+</p>
 
 ## <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 8px; margin-bottom: 24px;"><h4 style="margin: 0;">src/pages/TechStack.jsx 🪓⛏️</h4>
 </div>
@@ -56,9 +59,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=iraj259&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-
- ## <h2 align="center"> 📈 src/pages/Activity.jsx 🐉🔥 </h2>
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=iraj259&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" /> </p> 
 
 ## <h2 align="center"> 📬 src/pages/ContactMe.jsx 📜🛡️ </h2>
 <p align="center">
