@@ -59,22 +59,24 @@
 
 ## <h2 align="center"> 📬 src/pages/ContactMe.jsx 📜🛡️ </h2>
 <p align="center">
-  <a href="mailto:irajj.259@gmail.com.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:irajj.259@gmail.com">
+    <img src="https://img.shields.io/badge/Email-F6F6F6?style=for-the-badge&logo=gmail&logoColor=#161D6F" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/iraj-mahmood-b2962726a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-F6F6F6?style=for-the-badge&logo=linkedin&logoColor=#161D6F" alt="LinkedIn" />
   </a>
   <a href="https://github.com/iraj259">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-F6F6F6?style=for-the-badge&logo=github&logoColor=#161D6F" alt="GitHub" />
   </a>
 </p>
 
 ## <h2 align="center"> 🛡️ src/pages/Badges.jsx 🏆💎 </h2>
 
-  <p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://img.shields.io/badge/Commits-1000%2B-blue?style=for-the-badge&logo=git" alt="Commits Badge" />
-  <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=githubactions" alt="Build Status" />
-  <img src="https://img.shields.io/badge/AI-Enthusiast-orange?style=for-the-badge&logo=python" alt="AI Enthusiast" />
-  <img src="https://img.shields.io/badge/Minecraft-Fan-9cf?style=for-the-badge&logo=minecraft" alt="Minecraft Fan" />
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://img.shields.io/badge/Commits-1000%2B-98DED9?style=for-the-badge&logo=git&logoColor=#161D6F" alt="Commits Badge" />
+  <img src="https://img.shields.io/badge/Build-Passing-B6FFFA?style=for-the-badge&logo=githubactions&logoColor=#161D6F" alt="Build Status" />
+  <img src="https://img.shields.io/badge/AI-Enthusiast-98E4FF?style=for-the-badge&logo=python&logoColor=#161D6F" alt="AI Enthusiast" />
+  <img src="https://img.shields.io/badge/Cloud-Developer-C7FFD8?style=for-the-badge&logo=aws&logoColor=#161D6F" alt="Cloud Developer" />
+  <img src="https://img.shields.io/badge/Automation-F6F6F6?style=for-the-badge&logo=jenkins&logoColor=#161D6F" alt="Automation" />
 </p>
+
