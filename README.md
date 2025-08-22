@@ -1,12 +1,4 @@
 <p align="center">
-  <!-- Combined Pixel Avatar + Sparkle Animation -->
-  <img src="https://cdn.jsdelivr.net/gh/iraj259/assets/pixel-avatar-sparkle.gif" 
-       width="120" 
-       alt="Iraj Sparkling Avatar" 
-       style="border-radius: 50%; box-shadow: 0 0 15px #f7c6c7;" />
-</p>
-
-<p align="center">
   <img src="https://github.com/user-attachments/assets/65ce52d1-68ae-4242-bddf-07e2ea086e83" 
        width="70%" 
        alt="Pastel Minecraft Banner" />
@@ -15,15 +7,10 @@
 ## <h2 align="center">npm run build --with=iraj! 🦄</h2>
 
 
-## <div style="background-color:#230C33; padding:20px; border-radius:10px;">
  ## <h2 align="center" style="color:#F5EFFF;">💟 src/pages/Motto.jsx 💟</h2>
   <p align="center" style="font-family: 'Minecraft', monospace; font-size:18px; color:#F5EFFF; font-weight:bold;">
     "Code like a wizard, deploy like a boss!" ༘⋆🌷🫧💭₊˚ෆ
   </p>
-</div>
-
-
-
 
 
 ## <h2 align="center"> 💟 src/pages/AboutMe.jsx 💟</h2>
