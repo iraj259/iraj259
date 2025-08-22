@@ -6,7 +6,10 @@
 
 ## <h2 align="center">npm run build --with=iraj! 🦄</h2>
 
-⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+<p align="center" style="color:#F5EFFF; font-size:18px; margin: 12px 0;">
+─── ⋆⋅☆⋅⋆ ───
+</p>
+
 ## <h2 align="center" style="color:#F5EFFF;">💟 src/pages/Motto.jsx 💟</h2>
   <p align="center" style="font-family: 'Minecraft', monospace; font-size:18px; color:#F5EFFF; font-weight:bold;">
     "Code like a wizard, deploy like a boss!" ༘⋆🌷🫧💭₊˚ෆ
