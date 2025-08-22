@@ -60,23 +60,23 @@
 ## <h2 align="center"> 📬 src/pages/ContactMe.jsx 📜🛡️ </h2>
 <p align="center">
   <a href="mailto:irajj.259@gmail.com.com">
-    <img src="https://img.shields.io/badge/Email-D8B4FF?style=for-the-badge&logo=gmail&logoColor=#6D28D9" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-F5EFFF?style=for-the-badge&logo=gmail&logoColor=#230C33" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/iraj-mahmood-b2962726a/">
-    <img src="https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=#6D28D9" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-9984D4?style=for-the-badge&logo=linkedin&logoColor=#F5EFFF" alt="LinkedIn" />
   </a>
   <a href="https://github.com/iraj259">
-    <img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=#D8B4FF" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-592E83?style=for-the-badge&logo=github&logoColor=#F5EFFF" alt="GitHub" />
   </a>
 </p>
 
 ## <h2 align="center"> 🛡️ src/pages/Badges.jsx 🏆💎 </h2>
 
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://img.shields.io/badge/Commits-1000%2B-D8B4FF?style=for-the-badge&logo=git&logoColor=#6D28D9" alt="Commits Badge" />
-  <img src="https://img.shields.io/badge/Build-Passing-A78BFA?style=for-the-badge&logo=githubactions&logoColor=#6D28D9" alt="Build Status" />
-  <img src="https://img.shields.io/badge/AI-Enthusiast-6D28D9?style=for-the-badge&logo=python&logoColor=#D8B4FF" alt="AI Enthusiast" />
-  <img src="https://img.shields.io/badge/Cloud-Developer-D8B4FF?style=for-the-badge&logo=aws&logoColor=#6D28D9" alt="Cloud Developer" />
-  <img src="https://img.shields.io/badge/Automation-A78BFA?style=for-the-badge&logo=jenkins&logoColor=#6D28D9" alt="Automation" />
+  <img src="https://img.shields.io/badge/Commits-1000%2B-F5EFFF?style=for-the-badge&logo=git&logoColor=#230C33" alt="Commits Badge" />
+  <img src="https://img.shields.io/badge/Build-Passing-9984D4?style=for-the-badge&logo=githubactions&logoColor=#F5EFFF" alt="Build Status" />
+  <img src="https://img.shields.io/badge/AI-Enthusiast-592E83?style=for-the-badge&logo=python&logoColor=#F5EFFF" alt="AI Enthusiast" />
+  <img src="https://img.shields.io/badge/Cloud-Developer-9984D4?style=for-the-badge&logo=aws&logoColor=#F5EFFF" alt="Cloud Developer" />
+  <img src="https://img.shields.io/badge/Automation-592E83?style=for-the-badge&logo=jenkins&logoColor=#F5EFFF" alt="Automation" />
 </p>
 
