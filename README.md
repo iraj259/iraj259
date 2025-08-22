@@ -15,10 +15,13 @@
 ## <h2 align="center">npm run build --with=iraj! 🦄</h2>
 
 
-<h2 align="center" style="margin-bottom:8px;">💟 src/pages/Motto.jsx 💟</h2>
-<p align="center" style="margin-top:0; margin-bottom:20px; font-family: 'Minecraft', monospace; font-size:18px; color:#f7c6c7; font-weight:bold;">
-  "Code like a wizard, deploy like a boss!" ༘⋆🌷🫧💭₊˚ෆ
-</p>
+<div style="background-color:#230C33; padding:20px; border-radius:10px;">
+  <h2 align="center" style="color:#F5EFFF;">💟 src/pages/Motto.jsx 💟</h2>
+  <p align="center" style="font-family: 'Minecraft', monospace; font-size:18px; color:#F5EFFF; font-weight:bold;">
+    "Code like a wizard, deploy like a boss!" ༘⋆🌷🫧💭₊˚ෆ
+  </p>
+</div>
+
 
 
 
