@@ -29,6 +29,10 @@
 ## <h2 align="center">💟 src/pages/TechStack.jsx 💟</h2>
 
 <p align="center">
+  <img src="https://tenor.com/bejcQ.gif" width="120" alt="Cute Cat Coding" />
+</p>
+
+<p align="center">
   <table align="center">
     <tr>
       <td align="center"><img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" /><br>React</td>
@@ -41,6 +45,7 @@
     </tr>
   </table>
 </p>
+
 
 
 ### <h2 align="center">💟 src/pages/Stats&Languages.jsx 💟</h2>
