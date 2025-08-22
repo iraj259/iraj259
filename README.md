@@ -73,10 +73,11 @@
 ## <h2 align="center"> 🛡️ src/pages/Badges.jsx 🏆💎 </h2>
 
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://img.shields.io/badge/Commits-1000%2B-F5EFFF?style=for-the-badge&logo=git&logoColor=#230C33" alt="Commits Badge" />
+  <img src="https://img.shields.io/badge/Commits-1000%2B-230C33?style=for-the-badge&logo=git&logoColor=#F5EFFF" alt="Commits Badge" />
   <img src="https://img.shields.io/badge/Build-Passing-9984D4?style=for-the-badge&logo=githubactions&logoColor=#F5EFFF" alt="Build Status" />
   <img src="https://img.shields.io/badge/AI-Enthusiast-592E83?style=for-the-badge&logo=python&logoColor=#F5EFFF" alt="AI Enthusiast" />
   <img src="https://img.shields.io/badge/Cloud-Developer-9984D4?style=for-the-badge&logo=aws&logoColor=#F5EFFF" alt="Cloud Developer" />
-  <img src="https://img.shields.io/badge/Automation-592E83?style=for-the-badge&logo=jenkins&logoColor=#F5EFFF" alt="Automation" />
+  <img src="https://img.shields.io/badge/Automation-230C33?style=for-the-badge&logo=jenkins&logoColor=#F5EFFF" alt="Automation" />
 </p>
+
 
