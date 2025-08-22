@@ -38,7 +38,6 @@
   <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" />
   <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="48" />
 </p>
-─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆
 
 ### <h2 align="center">💟 src/pages/Stats&Languages.jsx 💟</h2>
 <p align="center"> <table align="center" style="margin:auto"> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=iraj259&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iraj259&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> </td> </tr> </table> </p>
