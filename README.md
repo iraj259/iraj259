@@ -16,8 +16,7 @@
 
 
 <h2 align="center" style="margin-bottom:8px;">💟 src/pages/Motto.jsx 💟</h2>
-<p align="center" style="margin-top:0; margin-bottom:20px; font-family: 'Minecraft', monospace; font-size:18px; color:#f7c6c7; font-weight:bold;">
-  "Code like a wizard, deploy like a boss!" 🧙‍♂️✨
+<span style="color:#F5EFFF">Code like a</span> <span style="color:#9984D4">wizard ༘⋆🌷🫧💭₊˚ෆ</span>
 </p>
 
 
