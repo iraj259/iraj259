@@ -13,7 +13,7 @@
   </p>
 
 
-## <h2 align="center" style="margin-bottom:8px; border:none;> 💟 src/pages/AboutMe.jsx 💟</h2>
+## <h2 align="center" > 💟 src/pages/AboutMe.jsx 💟</h2>
 
 ```json
 {
