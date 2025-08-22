@@ -12,7 +12,7 @@
        alt="Pastel Minecraft Banner" />
 </p>
 
-## <h2 align="center">npm run build --with=iraj! 🫧🦄🪻💜</h2>
+## <h2 align="center">npm run build --with=iraj! 🦄</h2>
 
 ## <h2 align="center">💟 src/pages/Motto.jsx 💟</h2>
 <p align="center" style="font-family: 'Minecraft', monospace; font-size: 18px; color: #f7c6c7; margin-bottom: 20px;">
@@ -72,12 +72,15 @@
 
 ## <h2 align="center">💟 src/pages/Badges.jsx 💟 </h2>
 
-<p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://img.shields.io/badge/Commits-1000%2B-F5EFFF?style=for-the-badge&logo=git&logoColor=#230C33" alt="Commits Badge" />
-  <img src="https://img.shields.io/badge/Build-Passing-9984D4?style=for-the-badge&logo=githubactions&logoColor=#F5EFFF" alt="Build Status" />
-  <img src="https://img.shields.io/badge/AI-Enthusiast-592E83?style=for-the-badge&logo=python&logoColor=#F5EFFF" alt="AI Enthusiast" />
-  <img src="https://img.shields.io/badge/Cloud-Developer-9984D4?style=for-the-badge&logo=aws&logoColor=#F5EFFF" alt="Cloud Developer" />
-  <img src="https://img.shields.io/badge/Automation-592E83?style=for-the-badge&logo=jenkins&logoColor=#F5EFFF" alt="Automation" />
+<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Commits-1000%2B-230C33?style=for-the-badge&logo=git&logoColor=#F5EFFF" alt="Commits Badge" />
+  <img src="https://img.shields.io/badge/Build-Passing-9984D4%20~%20592E83?style=for-the-badge&logo=githubactions&logoColor=#F5EFFF" alt="Build Status" />
+  <img src="https://img.shields.io/badge/AI-Enthusiast-592E83%20~%209984D4?style=for-the-badge&logo=python&logoColor=#F5EFFF" alt="AI Enthusiast" />
+  <img src="https://img.shields.io/badge/Cloud-Developer-9984D4%20~%20F5EFFF?style=for-the-badge&logo=aws&logoColor=#230C33" alt="Cloud Developer" />
+  <img src="https://img.shields.io/badge/Automation-592E83%20~%23230C33?style=for-the-badge&logo=jenkins&logoColor=#F5EFFF" alt="Automation" />
+  <img src="https://img.shields.io/badge/Frontend-9984D4%20~%23F5EFFF?style=for-the-badge&logo=react&logoColor=#230C33" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Backend-592E83%20~%239984D4?style=for-the-badge&logo=node.js&logoColor=#F5EFFF" alt="Backend" />
 </p>
+
 
 
