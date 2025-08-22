@@ -18,6 +18,7 @@
 <p align="center" style="font-family: 'Minecraft', monospace; font-size: 18px; color: #f7c6c7; margin-bottom: 20px;">
   <i>"Code like a wizard, deploy like a boss!" </i> <span>🧙‍♂️✨</span>
 </p>
+🟫🟩🟦🟪🟫🟩🟫🟩🟦🟪🟫🟩🟫🟩🟦🟪🟫🟩🟫🟩🟦🟪🟫🟩🟫🟩🟦🟪🟫🟩🟫🟩🟦🟪🟫🟩🟫🟩🟦🟪🟫🟩🟫🟩🟦🟪
 
 ## <h2 align="center"> ⛏️ src/pages/AboutMe.jsx </h2>
 
