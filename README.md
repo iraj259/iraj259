@@ -8,11 +8,6 @@
 
 ─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆
 
-## <h2 align="center" style="color:#F5EFFF;">💟 src/pages/Motto.jsx 💟</h2>
-  <p align="center" style="font-family: 'Minecraft', monospace; font-size:18px; color:#F5EFFF; font-weight:bold;">
-    "Code like a wizard, deploy like a boss!" ༘⋆🌷🫧💭₊˚ෆ
-  </p>
-
 
 ## <h2 align="center" > 💟 src/pages/AboutMe.jsx 💟</h2>
 
@@ -43,6 +38,7 @@
   <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" />
   <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="48" />
 </p>
+─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆
 
 ### <h2 align="center">💟 src/pages/Stats&Languages.jsx 💟</h2>
 <p align="center"> <table align="center" style="margin:auto"> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=iraj259&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iraj259&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> </td> </tr> </table> </p>
@@ -74,6 +70,11 @@
   <img src="https://img.shields.io/badge/Cloud-Developer-9984D4?style=for-the-badge&logo=aws&logoColor=F5EFFF" alt="Cloud Developer" />
   <img src="https://img.shields.io/badge/Automation-592E83?style=for-the-badge&logo=jenkins&logoColor=F5EFFF" alt="Automation" />
 </p>
+
+## <h2 align="center" style="color:#F5EFFF;">💟 src/pages/Motto.jsx 💟</h2>
+  <p align="center" style="font-family: 'Minecraft', monospace; font-size:18px; color:#F5EFFF; font-weight:bold;">
+    "Code like a wizard, deploy like a boss!" ༘⋆🌷🫧💭₊˚ෆ
+  </p>
 
 
 
