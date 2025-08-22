@@ -12,14 +12,14 @@
        alt="Pastel Minecraft Banner" />
 </p>
 
-## <h2 align="center">npm run build --with=iraj!🧚‍♀️</h2>
+## <h2 align="center">npm run build --with=iraj! 🫧🦄🪻💜</h2>
 
-## <h2 align="center">✨ src/pages/Motto.jsx</h2>
+## <h2 align="center">💟 src/pages/Motto.jsx 💟</h2>
 <p align="center" style="font-family: 'Minecraft', monospace; font-size: 18px; color: #f7c6c7; margin-bottom: 20px;">
   <i>"Code like a wizard, deploy like a boss!" </i> <span>🧙‍♂️✨</span>
 </p>
 
-## <h2 align="center"> ⛏️ src/pages/AboutMe.jsx </h2>
+## <h2 align="center"> 💟 src/pages/AboutMe.jsx 💟</h2>
 
 ```json
 {
@@ -36,7 +36,7 @@
 ```
 
 
-## <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 8px; margin-bottom: 24px;"><h4 style="margin: 0;">src/pages/TechStack.jsx 🪓⛏️</h4>
+## <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 8px; margin-bottom: 24px;"><h4 style="margin: 0;">💟 src/pages/TechStack.jsx 💟</h4>
 </div>
 
 <p align="center">
@@ -49,15 +49,15 @@
   <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="48" />
 </p>
 
-### <h2 align="center">📊 src/pages/Stats&Languages.jsx</h2>
+### <h2 align="center">💟 src/pages/Stats&Languages.jsx 💟</h2>
 <p align="center"> <table align="center" style="margin:auto"> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=iraj259&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iraj259&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> </td> </tr> </table> </p>
 
-## <h2 align="center">🔥 src/pages/Streak.jsx 🔥</h2>
+## <h2 align="center">💟 src/pages/Streak.jsx 💟</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=iraj259&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## <h2 align="center"> 📬 src/pages/ContactMe.jsx 📜🛡️ </h2>
+## <h2 align="center">💟 src/pages/ContactMe.jsx 💟</h2>
 <p align="center">
   <a href="mailto:irajj.259@gmail.com.com">
     <img src="https://img.shields.io/badge/Email-F5EFFF?style=for-the-badge&logo=gmail&logoColor=#230C33" alt="Email" />
@@ -70,7 +70,7 @@
   </a>
 </p>
 
-## <h2 align="center"> 🛡️ src/pages/Badges.jsx 🏆💎 </h2>
+## <h2 align="center">💟 src/pages/Badges.jsx 💟 </h2>
 
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://img.shields.io/badge/Commits-1000%2B-F5EFFF?style=for-the-badge&logo=git&logoColor=#230C33" alt="Commits Badge" />
