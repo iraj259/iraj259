@@ -54,7 +54,7 @@
 
 ## <h2 align="center">💟 src/pages/Streak.jsx 💟</h2>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iraj259&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=iraj259&theme=radical&hide_border=true" alt="WakaTime Stats" />
 </p>
 
 ## <h2 align="center">💟 src/pages/ContactMe.jsx 💟</h2>
