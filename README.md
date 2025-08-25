@@ -54,7 +54,7 @@
 
 ## <h2 align="center">💟 src/pages/Streak.jsx 💟</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=iraj259&theme=radical&hide_border=true" alt="WakaTime Stats" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iraj259)](https://git.io/streak-stats)
 </p>
 
 ## <h2 align="center">💟 src/pages/ContactMe.jsx 💟</h2>
