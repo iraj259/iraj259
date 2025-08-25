@@ -54,7 +54,7 @@
 
 ## <h2 align="center">💟 src/pages/Streak.jsx 💟</h2>
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=iraj259&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iraj259&theme=radical" alt="GitHub Streak" />
 </p>
 
 ## <h2 align="center">💟 src/pages/ContactMe.jsx 💟</h2>
