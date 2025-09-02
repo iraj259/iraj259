@@ -42,6 +42,7 @@
       <td align="center"><img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" /><br>Python</td>
       <td align="center"><img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" /><br>Docker</td>
       <td align="center"><img alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="48" /><br>Tailwind</td>
+      <td align="center"><img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" /><br>TypeScript</td>
     </tr>
   </table>
 </p>
