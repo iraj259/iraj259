@@ -52,25 +52,12 @@
 </tr>
 
   <tr>
-  <td align="center"><img src="https://cdn.simpleicons.org/openai/000000" width="48"/><br>OpenAI</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="48" alt="OpenAI"/><br>OpenAI</td>
   <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="48"/><br>LangChain</td>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/><br>Python</td>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/><br>Docker</td>
   <td align="center"><img src="https://cdn.simpleicons.org/vercel/000000" width="48"/><br>Vercel</td>
 </tr>
-
-  <tr>
-    <!-- DevOps -->
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/><br>Docker
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br>Git
-    </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/vercel/000000" width="48"/><br>Vercel
-    </td>
-  </tr>
 </table>
 
 
