@@ -65,15 +65,19 @@
 
 
 ### <h2 align="center">💟 src/pages/Stats&Languages.jsx 💟</h2>
-<p align="center"> <table align="center" style="margin:auto"> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=iraj259&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iraj259&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> </td> </tr> </table> </p>
-─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆
-
-## <h2 align="center">💟 src/pages/Streak.jsx 💟</h2>
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-chi.vercel.app/?user=iraj259&theme=radical" alt="GitHub Streak" />
-  </a>
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=iraj259&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iraj259&layout=compact&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </p>
+
 
 
 
