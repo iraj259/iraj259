@@ -94,6 +94,11 @@
   </a>
 </p>
 
+## <h2 align="center">💟 GitHub Streak 💟</h2>
+<p align="center" style="display:flex; justify-content:center; gap:10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iraj259&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
 ## <h2 align="center">💟 src/pages/Badges.jsx 💟 </h2>
 
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
