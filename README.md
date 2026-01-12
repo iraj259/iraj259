@@ -21,7 +21,7 @@
     "AI & Automation",
     "Cloud & DevOps"
   ],
-  "motto": ""
+  "motto": "Forever coding and building scalable apps"
 }
 ```
 
