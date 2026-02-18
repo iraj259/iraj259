@@ -72,14 +72,10 @@
 
 
 
+### <h2 align="center">💟 src/pages/Stats&Languages.jsx 💟</h2> <p align="center">
 
-## 💟 GitHub Stats & Languages
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iraj259/iraj259/main/github-metrics.svg" width="70%" />
-</p>
-
-<!-- <p align="center">
+ <p align="center">
   <table align="center">
     <tr>
       <td>
@@ -90,7 +86,7 @@
       </td>
     </tr>
   </table>
-</p> -->
+</p> 
 
 
 
