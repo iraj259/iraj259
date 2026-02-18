@@ -73,12 +73,11 @@
 
 
 
-### <h2 align="center">💟 src/pages/Stats&Languages.jsx 💟</h2>
+## 💟 GitHub Stats & Languages
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iraj259/iraj259/main/github-metrics.svg" />
+  <img src="https://raw.githubusercontent.com/iraj259/iraj259/main/github-metrics.svg" width="70%" />
 </p>
-
-
 
 <!-- <p align="center">
   <table align="center">
