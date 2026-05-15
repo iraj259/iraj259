@@ -96,7 +96,7 @@
 
 ---
 
-<h2 align="center">💟 src/pages/Snake.jsx 💟</h2>
+<h2 align="center">💟 src/pages/Contributions.jsx 💟</h2>
 
 <p align="center">
   <picture>
@@ -106,45 +106,7 @@
   </picture>
 </p>
 
-<details>
-<summary>🐍 Snake setup — click to expand (delete after done!)</summary>
-<br>
 
-**Step 1** — Create the file `.github/workflows/snake.yml` inside this repo with this content:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: iraj259
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Step 2** — Go to your repo **Settings → Actions → General → Workflow permissions** → select **Read and write permissions** → Save.
-
-**Step 3** — Go to **Actions tab** → click *Generate Snake* → **Run workflow** manually once.
-
-After ~30 seconds the `output` branch will appear and the snake will show! 🐍
-
-</details>
 
 ---
 
