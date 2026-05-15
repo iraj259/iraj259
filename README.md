@@ -124,7 +124,7 @@
   <a href="mailto:irajj.259@gmail.com">
     <img src="https://img.shields.io/badge/Email-F5EFFF?style=for-the-badge&logo=gmail&logoColor=%23230C33" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/iraj-mahmood-b2962726a/">
+  <a href="[https://www.linkedin.com/in/iraj-mahmood-b2962726a/](https://www.linkedin.com/in/iraj-m-b2962726a/)">
     <img src="https://img.shields.io/badge/LinkedIn-9984D4?style=for-the-badge&logo=linkedin&logoColor=%23F5EFFF" alt="LinkedIn" />
   </a>
   <a href="https://github.com/iraj259">
