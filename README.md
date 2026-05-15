@@ -1,17 +1,24 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Iraj%20Mahmood&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20%7C%20AI%20%7C%20Cloud&descAlignY=55&descSize=18)
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/65ce52d1-68ae-4242-bddf-07e2ea086e83" 
-       width="70%" 
+       width="100%" 
        alt="Pastel Minecraft Banner" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=C792EA&center=true&vCenter=true&width=620&lines=npm+run+build+--with%3Diraj+%F0%9F%A6%84;Full-Stack+Engineer+%F0%9F%9A%80;From+JSON+to+Neural+Nets+%F0%9F%A7%A0;MERN-ing+in+the+Cloud+%E2%98%81%EF%B8%8F%F0%9F%A4%96;Crafting+code+one+pastel+block+at+a+time+%F0%9F%8C%B8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=C792EA&center=true&vCenter=true&width=640&lines=Hey+there%2C+I%27m+Iraj+%F0%9F%91%8B;Full-Stack+Engineer+%7C+Lisbon+%F0%9F%87%B5%F0%9F%87%B9;Building+with+MERN+%2B+Cloud+%2B+AI+%F0%9F%A4%96;From+REST+APIs+to+Neural+Nets+%F0%9F%A7%A0;Open+to+collabs+%26+cool+ideas+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iraj259&color=c792ea&style=flat-square&label=profile+views" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Currently_Building-AI_Agents-C792EA?style=flat-square&logo=openai&logoColor=white" alt="Currently Building" />
+</p>
 
-─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆
+<p align="center">─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆</p>
 
 ---
 
@@ -74,6 +81,28 @@
 
 ---
 
+<h2 align="center">💟 src/pages/FeaturedProjects.jsx 💟</h2>
+
+<p align="center">
+  <a href="https://github.com/iraj259/leethub-microservices">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iraj259&repo=leethub-microservices&theme=catppuccin_mocha&hide_border=true" />
+  </a>
+  <a href="https://github.com/iraj259/flight-booking-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iraj259&repo=flight-booking-system&theme=catppuccin_mocha&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/iraj259/CalendarAgent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iraj259&repo=CalendarAgent&theme=catppuccin_mocha&hide_border=true" />
+  </a>
+  <a href="https://github.com/iraj259/mern-mcp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iraj259&repo=mern-mcp&theme=catppuccin_mocha&hide_border=true" />
+  </a>
+</p>
+
+---
+
 <h2 align="center">💟 src/pages/Stats.jsx 💟</h2>
 
 <p align="center">
@@ -85,6 +114,16 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=iraj259&theme=catppuccin_mocha&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
+
+---
+
+<h2 align="center">💟 src/pages/WakaTime.jsx 💟</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iraj259&theme=catppuccin_mocha&hide_border=true&layout=compact" alt="WakaTime Stats" />
+</p>
+
+> 💡 *To enable WakaTime stats: [sign up at wakatime.com](https://wakatime.com), install the VS Code extension, then replace `iraj259` above with your WakaTime username.*
 
 ---
 
@@ -106,14 +145,32 @@
   </picture>
 </p>
 
-
-
 ---
 
 <h2 align="center">💟 src/pages/Trophies.jsx 💟</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iraj259&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4" alt="Trophies" />
+</p>
+
+---
+
+<h2 align="center">💟 src/pages/NowPlaying.jsx 💟</h2>
+
+<p align="center">
+  <a href="https://github.com/novatorem/novatorem">
+    <img src="https://spotify-now-playing-iraj.vercel.app/api/spotify" width="350" alt="Spotify Now Playing" />
+  </a>
+</p>
+
+> 💡 *To enable Spotify: fork [novatorem/novatorem](https://github.com/novatorem/novatorem), deploy to Vercel with your Spotify credentials, then replace the URL above with your own deployment URL.*
+
+---
+
+<h2 align="center">💟 src/pages/Quote.jsx 💟</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
 ---
@@ -145,8 +202,18 @@
 
 ---
 
+<h2 align="center">💟 src/pages/Jokes.jsx 💟</h2>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke" />
+</p>
+
+---
+
 <h2 align="center">💟 src/pages/Motto.jsx 💟</h2>
 
 <p align="center">
   <em>"Code like a wizard, deploy like a boss!"</em> ༘⋆🌷🫧💭₊˚ෆ
 </p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
