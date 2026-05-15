@@ -1,23 +1,32 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/65ce52d1-68ae-4242-bddf-07e2ea086e83" 
-       width="70%" 
+  <img src="https://github.com/user-attachments/assets/65ce52d1-68ae-4242-bddf-07e2ea086e83"
+       width="100%"
        alt="Pastel Minecraft Banner" />
 </p>
 
-## <h2 align="center">npm run build --with=iraj 🦄</h2>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=C792EA&center=true&vCenter=true&width=620&lines=npm+run+build+--with%3Diraj+%F0%9F%A6%84;Full-Stack+Engineer+%F0%9F%9A%80;From+JSON+to+Neural+Nets+%F0%9F%A7%A0;MERN-ing+in+the+Cloud+%E2%98%81%EF%B8%8F%F0%9F%A4%96;Crafting+code+one+pastel+block+at+a+time+%F0%9F%8C%B8" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iraj259&color=c792ea&style=flat-square&label=profile+views" alt="Profile Views" />
+</p>
 
 ─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆
 
+---
 
-## <h2 align="center" > 💟 src/pages/AboutMe.jsx 💟</h2>
+<h2 align="center">💟 src/pages/AboutMe.jsx 💟</h2>
 
 ```json
 {
   "name": "Iraj Mahmood",
   "role": "Full-Stack Engineer",
-  "location": "Lisbon, Portugal",
+  "location": "Lisbon, Portugal 🇵🇹",
   "passion": [
-    "React/Next.js/Node.js",
+    "React / Next.js / Node.js",
     "AI & Automation",
     "Cloud & DevOps"
   ],
@@ -25,104 +34,160 @@
 }
 ```
 
+---
 
-## <h2 align="center">💟 src/pages/TechStack.jsx 💟</h2>
+<h2 align="center">💟 src/pages/TechStack.jsx 💟</h2>
 
 <p align="center">
   <img src="https://tenor.com/bejcQ.gif" width="120" alt="Cute Cat Coding" />
 </p>
 
 <table align="center">
-
-<tr>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/><br>React</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48"/><br>Next.js</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"/><br>TypeScript</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/><br>JavaScript</td>
-  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="48"/><br>Tailwind</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br>HTML</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/><br>CSS</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br>Git</td>
-</tr>
-
-<tr>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/><br>Node.js</td>
-  <td align="center"><img src="https://bun.sh/logo.svg" width="48"/><br>Bun</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48"/><br>Express</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" width="48"/><br>Fastify</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="48"/><br>Socket.IO</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"/><br>PostgreSQL</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/><br>MongoDB</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/><br>MySQL</td>
-</tr>
-
-<tr>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48"/><br>Redis</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/><br>Docker</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="48"/><br>Docker Compose</td>
-  <td align="center"><img src="https://cdn.simpleicons.org/vercel/000000" width="48"/><br>Vercel</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="48"/><br>OpenAI</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlegemini.svg" width="48"/><br>Gemini</td>
-  <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="48"/><br>LangChain</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/python.svg" width="48"/><br>Python</td>
-</tr>
-
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/><br>React</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48"/><br>Next.js</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"/><br>TypeScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/><br>JavaScript</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="48"/><br>Tailwind</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br>HTML</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/><br>CSS</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br>Git</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/><br>Node.js</td>
+    <td align="center"><img src="https://bun.sh/logo.svg" width="48"/><br>Bun</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48"/><br>Express</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" width="48"/><br>Fastify</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="48"/><br>Socket.IO</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"/><br>PostgreSQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/><br>MongoDB</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/><br>MySQL</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48"/><br>Redis</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/><br>Docker</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="48"/><br>Docker Compose</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/vercel/000000" width="48"/><br>Vercel</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="48"/><br>OpenAI</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlegemini.svg" width="48"/><br>Gemini</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="48"/><br>LangChain</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/python.svg" width="48"/><br>Python</td>
+  </tr>
 </table>
 
+---
 
+<h2 align="center">💟 src/pages/Stats.jsx 💟</h2>
 
-
-### <h2 align="center">💟 src/pages/Stats&Languages.jsx 💟</h2> <p align="center">
-
-
- <p align="center">
-  <table align="center">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=iraj259&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iraj259&layout=compact&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</p> 
-
-
-
-
-## <h2 align="center">💟 src/pages/ContactMe.jsx 💟</h2>
 <p align="center">
-  <a href="mailto:irajj.259@gmail.com.com">
-    <img src="https://img.shields.io/badge/Email-F5EFFF?style=for-the-badge&logo=gmail&logoColor=#230C33" alt="Email" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iraj259&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iraj259&layout=compact&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=iraj259&theme=catppuccin_mocha&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
+
+<h2 align="center">💟 src/pages/Activity.jsx 💟</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iraj259&theme=tokyo-night&hide_border=true&area=true&custom_title=Iraj%27s%20Contribution%20Graph" alt="Activity Graph" />
+</p>
+
+---
+
+<h2 align="center">💟 src/pages/Snake.jsx 💟</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iraj259/iraj259/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iraj259/iraj259/output/github-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/iraj259/iraj259/output/github-snake.svg" />
+  </picture>
+</p>
+
+<details>
+<summary>🐍 Snake setup — click to expand (delete after done!)</summary>
+<br>
+
+**Step 1** — Create the file `.github/workflows/snake.yml` inside this repo with this content:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: iraj259
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**Step 2** — Go to your repo **Settings → Actions → General → Workflow permissions** → select **Read and write permissions** → Save.
+
+**Step 3** — Go to **Actions tab** → click *Generate Snake* → **Run workflow** manually once.
+
+After ~30 seconds the `output` branch will appear and the snake will show! 🐍
+
+</details>
+
+---
+
+<h2 align="center">💟 src/pages/Trophies.jsx 💟</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iraj259&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4" alt="Trophies" />
+</p>
+
+---
+
+<h2 align="center">💟 src/pages/ContactMe.jsx 💟</h2>
+
+<p align="center">
+  <a href="mailto:irajj.259@gmail.com">
+    <img src="https://img.shields.io/badge/Email-F5EFFF?style=for-the-badge&logo=gmail&logoColor=%23230C33" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/iraj-mahmood-b2962726a/">
-    <img src="https://img.shields.io/badge/LinkedIn-9984D4?style=for-the-badge&logo=linkedin&logoColor=#F5EFFF" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-9984D4?style=for-the-badge&logo=linkedin&logoColor=%23F5EFFF" alt="LinkedIn" />
   </a>
   <a href="https://github.com/iraj259">
-    <img src="https://img.shields.io/badge/GitHub-592E83?style=for-the-badge&logo=github&logoColor=#F5EFFF" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-592E83?style=for-the-badge&logo=github&logoColor=%23F5EFFF" alt="GitHub" />
   </a>
 </p>
 
-## <h2 align="center">💟 GitHub Streak 💟</h2>
-<p align="center" style="display:flex; justify-content:center; gap:10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iraj259&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+---
 
-## <h2 align="center">💟 src/pages/Badges.jsx 💟 </h2>
+<h2 align="center">💟 src/pages/Badges.jsx 💟</h2>
 
-<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+<p align="center">
   <img src="https://img.shields.io/badge/Build-Passing-9984D4?style=for-the-badge&logo=githubactions&logoColor=F5EFFF" alt="Build Status" />
   <img src="https://img.shields.io/badge/AI-Enthusiast-592E83?style=for-the-badge&logo=python&logoColor=F5EFFF" alt="AI Enthusiast" />
-  <img src="https://img.shields.io/badge/Cloud-Developer-9984D4?style=for-the-badge&logo=aws&logoColor=F5EFFF" alt="Cloud Developer" />
-  <img src="https://img.shields.io/badge/Automation-592E83?style=for-the-badge&logo=jenkins&logoColor=F5EFFF" alt="Automation" />
+  <img src="https://img.shields.io/badge/Cloud-Developer-9984D4?style=for-the-badge&logo=amazonaws&logoColor=F5EFFF" alt="Cloud Developer" />
+  <img src="https://img.shields.io/badge/Automation-Lover-592E83?style=for-the-badge&logo=jenkins&logoColor=F5EFFF" alt="Automation" />
 </p>
 
-## <h2 align="center" style="color:#F5EFFF;">💟 src/pages/Motto.jsx 💟</h2>
-  <p align="center" style="font-family: 'Minecraft', monospace; font-size:18px; color:#F5EFFF; font-weight:bold;">
-    "Code like a wizard, deploy like a boss!" ༘⋆🌷🫧💭₊˚ෆ
-  </p>
+---
 
+<h2 align="center">💟 src/pages/Motto.jsx 💟</h2>
 
-
-
+<p align="center">
+  <em>"Code like a wizard, deploy like a boss!"</em> ༘⋆🌷🫧💭₊˚ෆ
+</p>
