@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/65ce52d1-68ae-4242-bddf-07e2ea086e83"
-       width="100%"
+  <img src="https://github.com/user-attachments/assets/65ce52d1-68ae-4242-bddf-07e2ea086e83" 
+       width="70%" 
        alt="Pastel Minecraft Banner" />
 </p>
 
@@ -10,9 +10,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iraj259&color=c792ea&style=flat-square&label=profile+views" alt="Profile Views" />
-</p>
 
 ─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆
 
