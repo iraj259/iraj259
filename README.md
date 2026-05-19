@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=C792EA&center=true&vCenter=true&width=620&lines=npm+run+build+--with%3Diraj+%F0%9F%A6%84;Full-Stack+Engineer+%F0%9F%9A%80;From+JSON+to+Neural+Nets+%F0%9F%A7%A0;MERN-ing+in+the+Cloud+%E2%98%81%EF%B8%8F%F0%9F%A4%96;Crafting+code+one+pastel+block+at+a+time+%F0%9F%8C%B8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=C792EA&center=true&vCenter=true&width=620&lines=npm+run+build+--with%3Diraj+%F0%9F%A6%84;Full-Stack+Engineer+%F0%9F%9A%80;From+JSON+to+Neural+Nets+%F0%9F%A7%A0;MERN-ing+in+the+Cloud+%E2%98%81%EF%B8%8F%F0%9F%A4%96;Crafting+code+,+one+pastel+block+at+a+time+%F0%9F%8C%B8" alt="Typing SVG" />
   </a>
 </p>
 
