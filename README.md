@@ -73,24 +73,7 @@
 </table>
 
 ---
-<h2 align="center">💟 src/pages/CurrentlyExploring.tsx 💟</h2>
 
-<table align="center">
-  <tr>
-    <td>🤖 AI agents & multi-step reasoning</td>
-    <td>☁️ Cloud & DevOps (AWS, Docker, CI/CD)</td>
-    <td>🧱 Kubernetes & container orchestration</td>
-  </tr>
-  <tr>
-    <td>🗄️ Vector databases (pgvector, Qdrant, Pinecone)</td>
-    <td>🔭 LLM observability (LangFuse, tracing)</td>
-    <td>⚡ Edge & serverless (Lambda, Cloudflare Workers)</td>
-  </tr>
-  <tr>
-    <td>🦀 Rust for performance-critical services</td>
-    <td>🔐 Security & IAM (JWT, AWS IAM, access control)</td>
-    <td>📡 Microservices & distributed systems</td>
-  </tr>
 </table>
 
 <h2 align="center">💟 src/pages/Stats.tsx 💟</h2>
@@ -158,6 +141,25 @@
 </p>
 
 ---
+<h2 align="center">💟 src/pages/CurrentlyExploring.tsx 💟</h2>
+
+<table align="center">
+  <tr>
+    <td>☁️ Cloud & DevOps</td>
+    <td>🤖 Agentic AI</td>
+    <td>🧠 GenAI Engineering</td>
+  </tr>
+  <tr>
+    <td>🧱 Kubernetes & Orchestration</td>
+    <td>🗄️ Vector Databases & RAG</td>
+    <td>🔭 LLM Observability</td>
+  </tr>
+  <tr>
+    <td>⚡ Serverless & Edge Computing</td>
+    <td>📡 Distributed Systems</td>
+    <td>🐳 Containerisation & Docker</td>
+  </tr>
+</table>
 
 <h2 align="center">💟 src/pages/Badges.tsx 💟</h2>
 
