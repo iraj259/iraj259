@@ -74,7 +74,7 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlegemini.svg" width="48"/><br>Gemini</td>
     <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="48"/><br>LangChain</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" width="48"/><br>Hugging Face</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pinecone.svg" width="48"/><br>Pinecone</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/pinecone/000000" width="48"/><br>Pinecone</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48"/><br>Supabase</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="48"/><br>Prisma</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="48"/><br>Cloudflare</td>
