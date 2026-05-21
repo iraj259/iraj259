@@ -20,14 +20,13 @@
 ```json
 {
   "name": "Iraj Mahmood",
-  "role": "Full-Stack Engineer",
+  "role": "Fullstack AI Developer",
+  "currently": "Fullstack AI Dev Intern @ Gaddr 🇸🇪",
   "location": "Lisbon, Portugal 🇵🇹",
-  "passion": [
-    "React / Next.js / Node.js",
-    "AI & Automation",
-    "Cloud & DevOps"
-  ],
-  "motto": "Forever coding and building scalable apps"
+  "building": ["AI agents & multi-agent systems", "Production backend services with NestJS", "LLM-powered workflows & RAG pipelines"],
+  "stack": ["NestJS · React · LangChain · LangGraph", "PostgreSQL · MongoDB · Redis", "Docker · AWS · Cloudflare R2"],
+  "open_to": ["Freelance", "Contracts", "Collaborations"],
+  "motto": "Ship fast, scale smart, automate everything"
 }
 ```
 
