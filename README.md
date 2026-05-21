@@ -15,7 +15,7 @@
 
 ---
 
-<h2 align="center">💟 src/pages/About.jsx 💟</h2>
+<h2 align="center">💟 src/pages/AboutMe.tsx 💟</h2>
 
 ```json
 {
@@ -33,7 +33,7 @@
 
 ---
 
-<h2 align="center">💟 src/pages/TechStack.jsx 💟</h2>
+<h2 align="center">💟 src/pages/TechStack.tsx 💟</h2>
 
 <p align="center">
   <img src="https://tenor.com/bejcQ.gif" width="120" alt="Cute Cat Coding" />
@@ -74,7 +74,7 @@
 
 ---
 
-<h2 align="center">💟 src/pages/Stats.jsx 💟</h2>
+<h2 align="center">💟 src/pages/Stats.tsx 💟</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iraj259&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="GitHub Stats" />
@@ -88,7 +88,7 @@
 
 ---
 
-<h2 align="center">💟 src/pages/Activity.jsx 💟</h2>
+<h2 align="center">💟 src/pages/Activity.tsx 💟</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iraj259&theme=tokyo-night&hide_border=true&area=true&custom_title=Iraj%27s%20Contribution%20Graph" alt="Activity Graph" />
@@ -96,7 +96,7 @@
 
 ---
 
-<h2 align="center">💟 src/pages/Contributions.jsx 💟</h2>
+<h2 align="center">💟 src/pages/Contributions.tsx 💟</h2>
 
 <p align="center">
   <picture>
@@ -110,7 +110,7 @@
 
 ---
 
-<h2 align="center">💟 src/pages/Trophies.jsx 💟</h2>
+<h2 align="center">💟 src/pages/Trophies.tsx 💟</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iraj259&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4" alt="Trophies" />
@@ -118,13 +118,13 @@
 
 ---
 
-<h2 align="center">💟 src/pages/Quote.jsx 💟</h2>
+<h2 align="center">💟 src/pages/Quote.tsx 💟</h2>
 
 <p align="center">
   <em><strong>"Obsessed is a word the lazy use to describe the dedicated."</strong></em>
 </p>
 
-<h2 align="center">💟 src/pages/ContactMe.jsx 💟</h2>
+<h2 align="center">💟 src/pages/ContactMe.tsx 💟</h2>
 
 <p align="center">
   <a href="mailto:irajj.259@gmail.com">
@@ -140,7 +140,7 @@
 
 ---
 
-<h2 align="center">💟 src/pages/Badges.jsx 💟</h2>
+<h2 align="center">💟 src/pages/Badges.tsx 💟</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Build-Passing-9984D4?style=for-the-badge&logo=githubactions&logoColor=F5EFFF" alt="Build Status" />
@@ -151,7 +151,7 @@
 
 ---
 
-<h2 align="center">💟 src/pages/Motto.jsx 💟</h2>
+<h2 align="center">💟 src/pages/Motto.tsx 💟</h2>
 
 <p align="center">
   <em>"Code like a wizard, deploy like a boss!"</em> ༘⋆🌷🫧💭₊˚ෆ
