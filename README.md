@@ -73,6 +73,12 @@
 </table>
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_Currently-Fullstack_AI_Dev_@_Gaddr-9984D4?style=for-the-badge&logoColor=F5EFFF" />
+  <img src="https://img.shields.io/badge/☁️_Exploring-Cloud_&_DevOps-592E83?style=for-the-badge&logoColor=F5EFFF" />
+  <img src="https://img.shields.io/badge/📍_Based_in-Lisbon_Portugal-9984D4?style=for-the-badge&logoColor=F5EFFF" />
+  <img src="https://img.shields.io/badge/🤝_Open_to-Freelance_&_Contracts-592E83?style=for-the-badge&logoColor=F5EFFF" />
+</p>
 
 <h2 align="center">💟 src/pages/Stats.tsx 💟</h2>
 
