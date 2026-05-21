@@ -49,15 +49,15 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/><br>CSS</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br>Git</td>
   </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/><br>Node.js</td>
-    <td align="center"><img src="https://bun.sh/logo.svg" width="48"/><br>Bun</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48"/><br>Express</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" width="48"/><br>Fastify</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="48"/><br>Socket.IO</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"/><br>PostgreSQL</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/><br>MongoDB</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/><br>MySQL</td>
+<tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48"/><br>Redis</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/><br>Docker</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="48"/><br>NestJS</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48"/><br>AWS</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/vercel/000000" width="48"/><br>Vercel</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="48"/><br>OpenAI</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="48"/><br>LangChain</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/python.svg" width="48"/><br>Python</td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48"/><br>Redis</td>
