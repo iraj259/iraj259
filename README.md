@@ -75,15 +75,23 @@
 ---
 <h2 align="center">💟 src/pages/CurrentlyExploring.tsx 💟</h2>
 
-<p align="center">
-  🤖 AI agents & multi-step reasoning &nbsp;|&nbsp;
-  ☁️ Cloud & DevOps (AWS, Docker, CI/CD) &nbsp;|&nbsp;
-  🧱 Kubernetes & container orchestration &nbsp;|&nbsp;
-  🗄️ Vector databases (pgvector, Qdrant, Pinecone) &nbsp;|&nbsp;
-  🔭 LLM observability (LangFuse, tracing pipelines) &nbsp;|&nbsp;
-  ⚡ Edge & serverless (Lambda, Cloudflare Workers) &nbsp;|&nbsp;
-  🦀 Rust for performance-critical services
-</p>
+<table align="center">
+  <tr>
+    <td>🤖 AI agents & multi-step reasoning</td>
+    <td>☁️ Cloud & DevOps (AWS, Docker, CI/CD)</td>
+    <td>🧱 Kubernetes & container orchestration</td>
+  </tr>
+  <tr>
+    <td>🗄️ Vector databases (pgvector, Qdrant, Pinecone)</td>
+    <td>🔭 LLM observability (LangFuse, tracing)</td>
+    <td>⚡ Edge & serverless (Lambda, Cloudflare Workers)</td>
+  </tr>
+  <tr>
+    <td>🦀 Rust for performance-critical services</td>
+    <td>🔐 Security & IAM (JWT, AWS IAM, access control)</td>
+    <td>📡 Microservices & distributed systems</td>
+  </tr>
+</table>
 
 <h2 align="center">💟 src/pages/Stats.tsx 💟</h2>
 
