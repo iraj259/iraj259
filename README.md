@@ -15,7 +15,7 @@
 
 ---
 
-<h2 align="center">💟 src/pages/AboutMe.jsx 💟</h2>
+<h2 align="center">💟 src/pages/About.jsx 💟</h2>
 
 ```json
 {
