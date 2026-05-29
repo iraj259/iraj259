@@ -186,3 +186,7 @@
 <p align="center">
   <em>"Code like a wizard, deploy like a boss!"</em> ༘⋆🌷🫧💭₊˚ෆ
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iraj259&style=for-the-badge&color=9984D4&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
