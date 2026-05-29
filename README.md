@@ -30,7 +30,7 @@
 }
 ```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9984D4&height=60&section=footer&fontSize=0"/>
 
 <h2 align="center">💟 src/pages/TechStack.tsx 💟</h2>
 
@@ -81,8 +81,7 @@
   </tr>
 </table>
 
----
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9984D4&height=60&section=footer&fontSize=0"/>
 </table>
 
 <h2 align="center">💟 src/pages/Stats.tsx 💟</h2>
@@ -97,16 +96,14 @@
   <img src="https://streak-stats.demolab.com?user=iraj259&theme=catppuccin_mocha&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
----
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9984D4&height=60&section=footer&fontSize=0"/>
 <h2 align="center">💟 src/pages/Activity.tsx 💟</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iraj259&theme=tokyo-night&hide_border=true&area=true&custom_title=Iraj%27s%20Contribution%20Graph" alt="Activity Graph" />
 </p>
 
----
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9984D4&height=60&section=footer&fontSize=0"/>
 <h2 align="center">💟 src/pages/Contributions.tsx 💟</h2>
 
 <p align="center">
@@ -119,7 +116,7 @@
 
 
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9984D4&height=60&section=footer&fontSize=0"/>
 
 <h2 align="center">💟 src/pages/Trophies.tsx 💟</h2>
 
@@ -127,7 +124,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=iraj259&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4" alt="Trophies" />
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9984D4&height=60&section=footer&fontSize=0"/>
 
 <h2 align="center">💟 src/pages/Quote.tsx 💟</h2>
 
@@ -149,7 +146,7 @@
   </a>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9984D4&height=60&section=footer&fontSize=0"/>
 <h2 align="center">💟 src/pages/CurrentlyExploring.tsx 💟</h2>
 
 <table align="center">
@@ -179,8 +176,7 @@
   <img src="https://img.shields.io/badge/Automation-Lover-592E83?style=for-the-badge&logo=jenkins&logoColor=F5EFFF" alt="Automation" />
 </p>
 
----
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9984D4&height=60&section=footer&fontSize=0"/>
 <h2 align="center">💟 src/pages/Motto.tsx 💟</h2>
 
 <p align="center">
