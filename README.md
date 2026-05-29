@@ -13,7 +13,7 @@
 
 ─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9984D4&height=60&section=footer&fontSize=0"/>
 
 <h2 align="center">💟 src/pages/AboutMe.tsx 💟</h2>
 
