@@ -29,7 +29,7 @@
 }
 ```
 
----
+
 <h2 align="center">💟 src/pages/TechStack.tsx 💟</h2>
 
 <p align="center">
@@ -169,7 +169,6 @@
   <img src="https://img.shields.io/badge/Automation-Lover-592E83?style=for-the-badge&logo=jenkins&logoColor=F5EFFF" alt="Automation" />
 </p>
 
----
 <h2 align="center">💟 src/pages/Motto.tsx 💟</h2>
 
 <p align="center">
