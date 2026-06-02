@@ -1,18 +1,20 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/65ce52d1-68ae-4242-bddf-07e2ea086e83" 
-       width="70%" 
-       alt="Pastel Minecraft Banner" />
+  <img src="https://github.com/user-attachments/assets/65ce52d1-68ae-4242-bddf-07e2ea086e83" width="70%" alt="Banner" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=C792EA&center=true&vCenter=true&width=620&lines=npm+run+build+--with%3Diraj+%F0%9F%A6%84;Full-Stack+Engineer+%F0%9F%9A%80;From+JSON+to+Neural+Nets+%F0%9F%A7%A0;MERN-ing+in+the+Cloud+%E2%98%81%EF%B8%8F%F0%9F%A4%96;Crafting+code,+one+pastel+block+at+a+time+%F0%9F%8C%B8" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=C792EA&center=true&vCenter=true&width=640&lines=Fullstack+AI+Developer+%40+Gaddr+%F0%9F%87%B8%F0%9F%87%AA;Building+AI+agents+%2B+backend+systems;NestJS+%7C+React+%7C+LangChain+%7C+LangGraph;From+microservices+to+multi-agent+pipelines" alt="Typing SVG" />
   </a>
 </p>
 
-
-─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iraj259&style=for-the-badge&color=9984D4&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://iraj-fullstack-engineer.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-592E83?style=for-the-badge&logo=vercel&logoColor=F5EFFF" />
+  </a>
+</p>
+──── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆ ─────
 
 <h2 align="center">💟 src/pages/AboutMe.tsx 💟</h2>
 
@@ -32,9 +34,7 @@
 
 <h2 align="center">💟 src/pages/TechStack.tsx 💟</h2>
 
-<p align="center">
-  <img src="https://tenor.com/bejcQ.gif" width="120" alt="Cute Cat Coding" />
-</p>
+
 
 <table align="center">
   <tr>
@@ -72,33 +72,52 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlegemini.svg" width="48"/><br>Gemini</td>
     <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="48"/><br>LangChain</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" width="48"/><br>Hugging Face</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langgraph.svg" width="48"/><br>LangGraph</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48"/><br>Supabase</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="48"/><br>Prisma</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="48"/><br>Cloudflare</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48"/><br>Kubernetes</td>
   </tr>
 </table>
 
+
+
+<h2 align="center">💟 src/pages/OnMyRadar.tsx 💟</h2>
+
+<table align="center">
+  <tr>
+    <td>☁️ Cloud & DevOps</td>
+    <td>⚡ Agentic AI</td>
+    <td>✨ GenAI Engineering</td>
+  </tr>
+  <tr>
+    <td>🧱 Kubernetes & Orchestration</td>
+    <td>🔍 Vector Databases & RAG</td>
+    <td>🔭 LLM Observability</td>
+  </tr>
+  <tr>
+    <td>🌩️ Serverless & Edge Computing</td>
+    <td>🔗 Distributed Systems</td>
+    <td>🐳 Containerisation & Docker</td>
+  </tr>
 </table>
+
 
 <h2 align="center">💟 src/pages/Stats.tsx 💟</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iraj259&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iraj259&layout=compact&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="Top Languages" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-streak-stat-taupe.vercel.app?user=iraj259&theme=catppuccin_mocha&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stat-lemon.vercel.app/api?username=iraj259&theme=catppuccin_mocha&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=iraj259&theme=catppuccin_mocha&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9984D4&height=60&section=footer&fontSize=0"/>
-<h2 align="center">💟 src/pages/Activity.tsx 💟</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iraj259&theme=tokyo-night&hide_border=true&area=true&custom_title=Iraj%27s%20Contribution%20Graph" alt="Activity Graph" />
-</p>
 
 <h2 align="center">💟 src/pages/Contributions.tsx 💟</h2>
 
@@ -111,14 +130,23 @@
 </p>
 
 
+<h2 align="center">💟 src/pages/FunFacts.tsx 💟</h2>
 
-<h2 align="center">💟 src/pages/Trophies.tsx 💟</h2>
+<table align="center">
+  <tr>
+    <td>📚 Reading books is how I decompress from debugging</td>
+    <td>🎌 Anime is a personality trait at this point</td>
+  </tr>
+  <tr>
+    <td>🎵 Music is always on — coding playlist is sacred</td>
+    <td>🌙 My best code gets written after midnight</td>
+  </tr>
+  <tr>
+    <td>🇵🇰 Pakistani dev building from Lisbon 🇵🇹</td>
+    <td>🚀 If it's not shipped, it doesn't exist</td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iraj259&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4" alt="Trophies" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9984D4&height=60&section=footer&fontSize=0"/>
 
 <h2 align="center">💟 src/pages/Quote.tsx 💟</h2>
 
@@ -126,9 +154,14 @@
   <em><strong>"Obsessed is a word the lazy use to describe the dedicated."</strong></em>
 </p>
 
+
+
 <h2 align="center">💟 src/pages/ContactMe.tsx 💟</h2>
 
 <p align="center">
+  <a href="https://iraj-fullstack-engineer.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-9984D4?style=for-the-badge&logo=vercel&logoColor=F5EFFF" alt="Portfolio" />
+  </a>
   <a href="mailto:irajj.259@gmail.com">
     <img src="https://img.shields.io/badge/Email-F5EFFF?style=for-the-badge&logo=gmail&logoColor=%23230C33" alt="Email" />
   </a>
@@ -138,43 +171,4 @@
   <a href="https://github.com/iraj259">
     <img src="https://img.shields.io/badge/GitHub-592E83?style=for-the-badge&logo=github&logoColor=%23F5EFFF" alt="GitHub" />
   </a>
-</p>
-
-<h2 align="center">💟 src/pages/CurrentlyExploring.tsx 💟</h2>
-
-<table align="center">
-  <tr>
-    <td>☁️ Cloud & DevOps</td>
-    <td>🤖 Agentic AI</td>
-    <td>🧠 GenAI Engineering</td>
-  </tr>
-  <tr>
-    <td>🧱 Kubernetes & Orchestration</td>
-    <td>🗄️ Vector Databases & RAG</td>
-    <td>🔭 LLM Observability</td>
-  </tr>
-  <tr>
-    <td>⚡ Serverless & Edge Computing</td>
-    <td>📡 Distributed Systems</td>
-    <td>🐳 Containerisation & Docker</td>
-  </tr>
-</table>
-
-<h2 align="center">💟 src/pages/Badges.tsx 💟</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Build-Passing-9984D4?style=for-the-badge&logo=githubactions&logoColor=F5EFFF" alt="Build Status" />
-  <img src="https://img.shields.io/badge/AI-Enthusiast-592E83?style=for-the-badge&logo=python&logoColor=F5EFFF" alt="AI Enthusiast" />
-  <img src="https://img.shields.io/badge/Cloud-Developer-9984D4?style=for-the-badge&logo=amazonaws&logoColor=F5EFFF" alt="Cloud Developer" />
-  <img src="https://img.shields.io/badge/Automation-Lover-592E83?style=for-the-badge&logo=jenkins&logoColor=F5EFFF" alt="Automation" />
-</p>
-
-<h2 align="center">💟 src/pages/Motto.tsx 💟</h2>
-
-<p align="center">
-  <em>"Code like a wizard, deploy like a boss!"</em> ༘⋆🌷🫧💭₊˚ෆ
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iraj259&style=for-the-badge&color=9984D4&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
