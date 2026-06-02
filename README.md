@@ -22,7 +22,7 @@
   "role": "Fullstack AI Developer",
   "currently": "Fullstack AI Dev Intern @ Gaddr 🇸🇪",
   "location": "Lisbon, Portugal 🇵🇹",
-  "building": ["AI agents & multi-agent systems", "Production backend services with NestJS", "LLM-powered workflows & RAG pipelines"],
+  "building": ["AI agents & multi-agent systems", "Production backend services with NestJS"],
   "stack": ["NestJS · React · LangChain · LangGraph", "PostgreSQL · MongoDB · Redis", "Docker · AWS · Cloudflare R2"],
   "open_to": ["Freelance", "Contracts", "Collaborations"],
   "motto": "Ship fast, scale smart, automate everything"
