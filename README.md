@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/65ce52d1-68ae-4242-bddf-07e2ea086e83" width="70%" alt="Banner" />
 </p>
@@ -17,7 +18,6 @@
 
 ─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆
 
----
 
 <h2 align="center">💟 src/pages/AboutMe.tsx 💟</h2>
 
@@ -34,7 +34,6 @@ const iraj: Developer = {
 }
 ```
 
----
 
 <h2 align="center">💟 src/pages/TechStack.tsx 💟</h2>
 
@@ -81,7 +80,6 @@ const iraj: Developer = {
   </tr>
 </table>
 
----
 
 <h2 align="center">💟 src/pages/OnMyRadar.tsx 💟</h2>
 
@@ -103,7 +101,6 @@ const iraj: Developer = {
   </tr>
 </table>
 
----
 
 <h2 align="center">💟 src/pages/Stats.tsx 💟</h2>
 
@@ -120,7 +117,6 @@ const iraj: Developer = {
   </table>
 </div>
 
----
 
 <h2 align="center">💟 src/pages/Contributions.tsx 💟</h2>
 
@@ -132,7 +128,6 @@ const iraj: Developer = {
   </picture>
 </p>
 
----
 
 <h2 align="center">💟 src/pages/WhoAmI.tsx 💟</h2>
 
@@ -154,7 +149,7 @@ FACTS=(
 echo "🇵🇰 Pakistani dev building from Lisbon 🇵🇹"
 ```
 
----
+
 
 <h2 align="center">💟 src/pages/Quote.tsx 💟</h2>
 
@@ -162,7 +157,6 @@ echo "🇵🇰 Pakistani dev building from Lisbon 🇵🇹"
   <em><strong>"Obsessed is a word the lazy use to describe the dedicated."</strong></em>
 </p>
 
----
 
 <h2 align="center">💟 src/pages/ContactMe.tsx 💟</h2>
 
@@ -180,3 +174,4 @@ echo "🇵🇰 Pakistani dev building from Lisbon 🇵🇹"
     <img src="https://img.shields.io/badge/GitHub-592E83?style=for-the-badge&logo=github&logoColor=%23F5EFFF" alt="GitHub" />
   </a>
 </p>
+
