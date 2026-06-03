@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=C792EA&center=true&vCenter=true&width=640&lines=Fullstack+AI+Developer+%40+Gaddr+%F0%9F%87%B8%F0%9F%87%AA;Building+AI+agents+%2B+backend+systems;NestJS+%7C+React+%7C+LangChain+%7C+LangGraph;From+microservices+to+multi-agent+pipelines" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=C792EA&center=true&vCenter=true&width=640&lines=Fullstack+AI+Developer;Building+AI+agents+%2B+backend+systems;NestJS+%7C+React+%7C+LangChain+%7C+LangGraph;From+microservices+to+multi-agent+pipelines" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,26 +14,33 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit-592E83?style=for-the-badge&logo=vercel&logoColor=F5EFFF" />
   </a>
 </p>
-─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆ ────
+
+─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆
+
+---
 
 <h2 align="center">💟 src/pages/AboutMe.tsx 💟</h2>
 
-```json
-{
-  "name": "Iraj Mahmood",
-  "role": "Fullstack AI Developer",
-  "location": "Lisbon, Portugal 🇵🇹",
-  "building": ["AI agents & multi-agent systems", "Production backend services with NestJS"],
-  "stack": ["NestJS · React · LangChain · LangGraph", "PostgreSQL · MongoDB · Redis", "Docker · AWS · Cloudflare R2"],
-  "open_to": ["Freelance", "Contracts", "Collaborations"],
-  "motto": "Ship fast, scale smart, automate everything"
+```typescript
+const iraj: Developer = {
+  name: "Iraj Mahmood",
+  role: "Fullstack AI Developer",
+  location: "Lisbon, Portugal 🇵🇹",
+  passion: "Turning complex problems into elegant, scalable systems",
+  building: ["Multi-agent AI systems", "Scalable backends", "RAG pipelines"],
+  stack: ["NestJS · React · LangChain · LangGraph", "PostgreSQL · MongoDB · Redis", "Docker · AWS · Cloudflare R2"],
+  open_to: ["Freelance", "Contracts", "Collaborations"],
+  motto: "Ship fast, scale smart, automate everything"
 }
 ```
 
+---
 
 <h2 align="center">💟 src/pages/TechStack.tsx 💟</h2>
 
-
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY210ZW5ta3NocHI2a3Jxc2FpYmRnZ2UxNnRmMHN3eDFsZDg0enlqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="120" alt="Coding Cat" />
+</p>
 
 <table align="center">
   <tr>
@@ -78,7 +85,7 @@
   </tr>
 </table>
 
-
+---
 
 <h2 align="center">💟 src/pages/OnMyRadar.tsx 💟</h2>
 
@@ -100,6 +107,7 @@
   </tr>
 </table>
 
+---
 
 <h2 align="center">💟 src/pages/Stats.tsx 💟</h2>
 
@@ -116,7 +124,7 @@
   </table>
 </div>
 
-
+---
 
 <h2 align="center">💟 src/pages/Contributions.tsx 💟</h2>
 
@@ -128,24 +136,29 @@
   </picture>
 </p>
 
+---
 
-<h2 align="center">💟 src/pages/FunFacts.tsx 💟</h2>
+<h2 align="center">💟 src/pages/WhoAmI.tsx 💟</h2>
 
-<table align="center">
-  <tr>
-    <td>📚 Reading books is how I decompress from debugging</td>
-    <td>🎌 Anime is a personality trait at this point</td>
-  </tr>
-  <tr>
-    <td>🎵 Music is always on — coding playlist is sacred</td>
-    <td>🌙 My best code gets written after midnight</td>
-  </tr>
-  <tr>
-    <td>🇵🇰 Pakistani dev building from Lisbon 🇵🇹</td>
-    <td>🚀 If it's not shipped, it doesn't exist</td>
-  </tr>
-</table>
+```bash
+~/iraj $ cat about.sh
 
+INTERESTS=(
+  "📚 Reading — books over doomscrolling any day"
+  "🎌 Anime  — it's not a phase, it's a lifestyle"
+  "🎵 Music  — always on, coding playlist is sacred"
+)
+
+FACTS=(
+  "🌙 Best code gets written after midnight"
+  "🐛 20% coding, 80% figuring out why it worked"
+  "🚀 If it's not shipped, it doesn't exist"
+)
+
+echo "🇵🇰 Pakistani dev building from Lisbon 🇵🇹"
+```
+
+---
 
 <h2 align="center">💟 src/pages/Quote.tsx 💟</h2>
 
@@ -153,7 +166,7 @@
   <em><strong>"Obsessed is a word the lazy use to describe the dedicated."</strong></em>
 </p>
 
-
+---
 
 <h2 align="center">💟 src/pages/ContactMe.tsx 💟</h2>
 
