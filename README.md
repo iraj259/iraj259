@@ -38,10 +38,6 @@ const iraj: Developer = {
 
 <h2 align="center">💟 src/pages/TechStack.tsx 💟</h2>
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY210ZW5ta3NocHI2a3Jxc2FpYmRnZ2UxNnRmMHN3eDFsZDg0enlqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="120" alt="Coding Cat" />
-</p>
-
 <table align="center">
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/><br>React</td>
