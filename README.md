@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit-592E83?style=for-the-badge&logo=vercel&logoColor=F5EFFF" />
   </a>
 </p>
-──── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆ ─────
+─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆ ────
 
 <h2 align="center">💟 src/pages/AboutMe.tsx 💟</h2>
 
@@ -22,7 +22,6 @@
 {
   "name": "Iraj Mahmood",
   "role": "Fullstack AI Developer",
-  "currently": "Fullstack AI Dev Intern @ Gaddr 🇸🇪",
   "location": "Lisbon, Portugal 🇵🇹",
   "building": ["AI agents & multi-agent systems", "Production backend services with NestJS"],
   "stack": ["NestJS · React · LangChain · LangGraph", "PostgreSQL · MongoDB · Redis", "Docker · AWS · Cloudflare R2"],
