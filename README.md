@@ -134,19 +134,16 @@ const iraj: Developer = {
 ```bash
 ~/iraj $ cat about.sh
 
-INTERESTS=(
-  "📚 Reading — books over doomscrolling any day"
-  "🎌 Anime  — it's not a phase, it's a lifestyle"
-  "🎵 Music  — always on, coding playlist is sacred"
-)
+NAME="Iraj Mahmood"
+LOCATION="Lisbon, Portugal 🇵🇹 — Pakistani dev abroad 🇵🇰"
+
+INTERESTS=("📚 Reading" "🎌 Anime" "🎵 Music")
 
 FACTS=(
   "🌙 Best code gets written after midnight"
   "🐛 20% coding, 80% figuring out why it worked"
   "🚀 If it's not shipped, it doesn't exist"
 )
-
-echo "🇵🇰 Pakistani dev building from Lisbon 🇵🇹"
 ```
 
 
