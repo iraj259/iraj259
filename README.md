@@ -135,7 +135,7 @@ const iraj: Developer = {
 ~/iraj $ cat about.sh
 
 NAME="Iraj Mahmood"
-LOCATION="Lisbon, Portugal 🇵🇹 — Pakistani dev abroad 🇵🇰"
+LOCATION="Lisbon, Portugal 🇵🇹"
 
 INTERESTS=("📚 Reading" "🎌 Anime" "🎵 Music")
 
