@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=C792EA&center=true&vCenter=true&width=640&lines=Fullstack+AI+Developer!;Building+AI+agents+%2B+backend+systems;NestJS+%7C+React+%7C+LangChain+%7C+LangGraph;From+microservices+to+multi-agent+pipelines" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=C792EA&center=true&vCenter=true&width=640&lines=Fullstack+AI+Developer;Building+AI+agents+%2B+backend+systems;NestJS+%7C+React+%7C+LangChain+%7C+LangGraph;From+microservices+to+multi-agent+pipelines" alt="Typing SVG" />
   </a>
 </p>
 
