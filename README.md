@@ -141,7 +141,6 @@ INTERESTS=("📚 Reading" "🎌 Anime" "🎵 Music")
 
 FACTS=(
   "🌙 Best code gets written after midnight"
-  "🐛 20% coding, 80% figuring out why it worked"
   "🚀 If it's not shipped, it doesn't exist"
 )
 ```
