@@ -85,19 +85,19 @@ const iraj: Developer = {
 
 <table align="center">
   <tr>
-    <td>☁️ Cloud & DevOps</td>
-    <td>⚡ Agentic AI</td>
-    <td>✨ GenAI Engineering</td>
+    <td> Cloud & DevOps</td>
+    <td> Agentic AI</td>
+    <td> GenAI Engineering</td>
   </tr>
   <tr>
-    <td>🧱 Kubernetes & Orchestration</td>
-    <td>🔍 Vector Databases & RAG</td>
-    <td>🔭 LLM Observability</td>
+    <td> Kubernetes & Orchestration</td>
+    <td> Vector Databases & RAG</td>
+    <td> LLM Observability</td>
   </tr>
   <tr>
-    <td>🌩️ Serverless & Edge Computing</td>
-    <td>🔗 Distributed Systems</td>
-    <td>🐳 Containerisation & Docker</td>
+    <td> Serverless & Edge Computing</td>
+    <td> Distributed Systems</td>
+    <td> Containerisation & Docker</td>
   </tr>
 </table>
 
@@ -137,11 +137,11 @@ const iraj: Developer = {
 NAME="Iraj Mahmood"
 LOCATION="Lisbon, Portugal 🇵🇹"
 
-INTERESTS=("📚 Reading" "🎌 Anime" "🎵 Music")
+INTERESTS=("Reading" "Anime" "Music")
 
 FACTS=(
-  "🌙 Best code gets written after midnight"
-  "🚀 If it's not shipped, it doesn't exist"
+  "Best code gets written after midnight"
+  "If it's not shipped, it doesn't exist"
 )
 ```
 
