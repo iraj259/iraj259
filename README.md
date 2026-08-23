@@ -25,7 +25,7 @@
 const iraj: Developer = {
   name: "Iraj Mahmood",
   role: "Fullstack AI Developer",
-  location: "Lisbon, Portugal 🇵🇹",
+  location: "Lisbon, Portugal",
   passion: "Turning complex problems into elegant, scalable systems",
   building: ["Multi-agent AI systems", "Scalable backends", "RAG pipelines"],
   stack: ["NestJS · React · LangChain · LangGraph", "PostgreSQL · MongoDB · Redis", "Docker · AWS · Cloudflare R2"],
